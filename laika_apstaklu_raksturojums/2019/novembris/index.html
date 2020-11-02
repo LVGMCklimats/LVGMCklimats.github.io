@@ -1,0 +1,6049 @@
+<!DOCTYPE html>
+<html lang="en" class="js csstransforms3d">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Hugo 0.72.0" />
+    <meta name="description" content="Novembris, 2019 Novembra mēneša apskats Novembra vidējā gaisa temperatūra Latvijā bija &#43;4,0°C, kas ir 2,4°C virs mēneša normas. Mēneša minimālā gaisa temperatūra -10,8°C tika novērota 25. novembrī Madonā, bet maksimālā gaisa temperatūra &#43;12,8°C – 4. novembrī Daugavpilī. Kopumā novembrī tika pārspēti 43 rekordi, starp kuriem bija divi Latvijas diennakts maksimālās gaisa temperatūras rekordi, kā arī 4 novērojumu staciju dekādes maksimālās gaisa temperatūras rekordi. Atkārtots tika viens diennakts maksimālās gaisa temperatūras rekords.">
+
+
+    <link rel="shortcut icon" href="/img/favicon-16x16.png">
+    <title> :: klimats.meteo.lv</title>
+    <script>  
+      const cyrb53 = function(str, seed = 0) {
+          let h1 = 0xdeadbeef ^ seed,
+            h2 = 0x41c6ce57 ^ seed;
+          for (let i = 0, ch; i < str.length; i++) {
+            ch = str.charCodeAt(i);
+            h1 = Math.imul(h1 ^ ch, 2654435761);
+            h2 = Math.imul(h2 ^ ch, 1597334677);
+          }
+          h1 = Math.imul(h1 ^ h1 >>> 16, 2246822507) ^ Math.imul(h2 ^ h2 >>> 13, 3266489909);
+          h2 = Math.imul(h2 ^ h2 >>> 16, 2246822507) ^ Math.imul(h1 ^ h1 >>> 13, 3266489909);
+          return 4294967296 * (2097151 & h2) + (h1 >>> 0);
+      };
+      
+      let clientIP = "{$_SERVER['REMOTE_ADDR']}";
+      let validityInterval = Math.round (new Date() / 1000 / 3600 / 24 / 4);
+      let clientIDSource = clientIP + ";" + window.location.host + ";" + navigator.userAgent + ";" + navigator.language + ";" + validityInterval;
+      let clientIDHashed = cyrb53(clientIDSource).toString(16);
+      
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      
+      ga('create', 'UA-177915255-1', {
+          'storage': 'none',
+          'clientId': clientIDHashed
+      });
+      ga('set', 'anonymizeIp', true);
+      ga('send', 'pageview');
+      </script>
+
+    
+    <link rel="stylesheet" href="/css/nucleus.css?1604315998">
+    <link rel="stylesheet" href="/css/solid.min.css?1604315998">
+    <link rel="stylesheet" href="/css/hybrid.css?1604315998">
+    <link rel="stylesheet" href="/css/featherlight.min.css?1604315998">
+    <link rel="stylesheet" href="/css/perfect-scrollbar.min.css?1604315998">
+    <link rel="stylesheet" href="/css/auto-complete.css?1604315998">
+    <link rel="stylesheet" href="/css/atom-one-dark-reasonable.css?1604315998">
+    <link rel="stylesheet" href="/css/theme.css?1604315998">
+    <link rel="stylesheet" href="/css/hugo-theme.css?1604315998">
+    
+    <link rel="stylesheet" href="/css/theme-meteo.css?1604315998">
+    
+    <link rel="preload" href="/fonts/Futura_Medium.woff2" as="font" type="font/woff2" crossorigin>
+    
+    <script src="/js/jquery-3.5.1.min.js?1604315998"></script>
+    
+    <script>
+
+      function showTopBar() {
+        document.getElementById("top-bar-wrapper").style.top = "0";
+        document.getElementById("top-bar-wrapper").style.right = "0";
+        document.getElementById("top-bar-wrapper").style.left = "0";
+      }
+
+      function hideTopBar() {
+        document.getElementById("top-bar-wrapper").style.top = "-3rem";
+      }
+
+      (function(){   
+
+      var doc = document.documentElement;
+      var w = window;
+
+      var prevScroll = w.scrollY || doc.scrollTop;
+      var curScroll;
+      var direction = 0;
+      var prevDirection = 0;
+      var lastScrollUpPos = -100;
+
+      var down = 2;
+      var up = 1;
+
+      var checkScroll = function() {
+        
+
+
+        curScroll = w.scrollY || doc.scrollTop;
+        if (curScroll > prevScroll) {
+          
+          direction = down;
+        }
+        else if (curScroll < prevScroll) {
+          
+          lastScrollUpPos = curScroll;
+          direction = up;
+        }
+
+        if (direction !== prevDirection) {
+          if (direction === down && curScroll > 48) {   
+            if (lastScrollUpPos < curScroll-48) {   
+              toggleHeader(direction);
+            }
+          } else if (direction === up) {
+            toggleHeader(direction);
+            lastScrollUpPos = curScroll;
+          }
+        }
+        prevScroll = curScroll;
+      };
+
+      var toggleHeader = function(direction) {
+        if (direction === down) {
+          hideTopBar();
+          prevDirection = direction;
+        }
+        else if (direction === up) {
+          showTopBar();
+          prevDirection = direction;
+        }
+      };
+
+      window.addEventListener('scroll', checkScroll);
+
+      })();
+    </script>
+    <style>
+      :root #header + #content > #left > #rlblock_left{
+          display:none !important;
+      }
+      
+    </style>
+    
+  </head>
+  <body class="" data-url="/laika_apstaklu_raksturojums/2019/novembris/">
+
+    <script>
+  window.addEventListener('DOMContentLoaded', function(e) {
+  
+    
+    
+    
+    
+    
+    
+    
+    document.querySelectorAll('.collapsed-chapter').forEach(function(elem) {
+      elem.firstElementChild.addEventListener('click', function (e) {
+        elem.classList.toggle('collapsed-chapter');
+        elem.classList.toggle('expanded-chapter');
+      });    
+    });
+
+    
+    
+    
+    
+    activePage = document.querySelector('.active');
+    if (activePage !== null) {
+      parents = parentsOfElem(activePage).filter(elem => elem.tagName=='LI' && elem.classList.contains('parent'));
+      parents.forEach((elem) => {
+        elem.classList.remove('collapsed-chapter');
+        elem.classList.add('expanded-chapter');
+      });
+    }
+
+    function parentsOfElem(elem) {
+      var parents = [];
+      while (elem) {
+          parents.unshift(elem);
+          elem = elem.parentNode;
+      }
+      return parents;
+    }
+  });
+</script>
+
+<nav id="sidebar" class="">
+
+
+
+  <div id="header-wrapper">
+    <div id="header">
+      <a href="https://videscentrs.lvgmc.lv"><img alt="LVGMC logo" src="/img/LVGMC_full.svg"></a>
+
+    </div>
+    
+  </div>
+
+    <div class="highlightable">
+    <ul class="topics">
+
+        
+          
+          
+
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/laika_apstaklu_raksturojums/" title="" class="dd-item
+      parent
+      collapsed-chapter
+      
+      ">
+      
+        <div class="menu-parent-div">
+          <div class="menu-label" style="margin-left:1rem !important;">
+            Laika apstākļu raksturojums
+          </div>
+          <div class="menu-right">
+            <i class="fas fa-caret-down" aria-hidden="true"></i>
+            <i class="fas fa-caret-up" aria-hidden="true"></i>
+          </div>
+        </div>
+      
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/laika_apstaklu_raksturojums/2020/" title="" class="dd-item
+      parent
+      collapsed-chapter
+      
+      ">
+      
+        <div class="menu-parent-div">
+          <div class="menu-label" style="margin-left:2rem !important;">
+            2020
+          </div>
+          <div class="menu-right">
+            <i class="fas fa-caret-down" aria-hidden="true"></i>
+            <i class="fas fa-caret-up" aria-hidden="true"></i>
+          </div>
+        </div>
+      
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2020/pavasaris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2020/pavasaris/" style="padding-left:3rem;">
+        Pavasaris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2020/ziema/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2020/ziema/" style="padding-left:3rem;">
+        Ziema
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2020/septembris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2020/septembris/" style="padding-left:3rem;">
+        Septembris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2020/augusts/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2020/augusts/" style="padding-left:3rem;">
+        Augusts
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2020/julijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2020/julijs/" style="padding-left:3rem;">
+        Jūlijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2020/junijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2020/junijs/" style="padding-left:3rem;">
+        Jūnijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2020/maijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2020/maijs/" style="padding-left:3rem;">
+        Maijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2020/aprilis/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2020/aprilis/" style="padding-left:3rem;">
+        Aprīlis
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2020/marts/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2020/marts/" style="padding-left:3rem;">
+        Marts
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2020/februaris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2020/februaris/" style="padding-left:3rem;">
+        Februāris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2020/janvaris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2020/janvaris/" style="padding-left:3rem;">
+        Janvāris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/laika_apstaklu_raksturojums/2019/" title="" class="dd-item
+      parent
+      collapsed-chapter
+      
+      ">
+      
+        <div class="menu-parent-div">
+          <div class="menu-label" style="margin-left:2rem !important;">
+            2019
+          </div>
+          <div class="menu-right">
+            <i class="fas fa-caret-down" aria-hidden="true"></i>
+            <i class="fas fa-caret-up" aria-hidden="true"></i>
+          </div>
+        </div>
+      
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2019/gads/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2019/gads/" style="padding-left:3rem;">
+        Gads
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2019/rudens/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2019/rudens/" style="padding-left:3rem;">
+        Rudens
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2019/vasara/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2019/vasara/" style="padding-left:3rem;">
+        Vasara
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2019/pavasaris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2019/pavasaris/" style="padding-left:3rem;">
+        Pavasaris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2019/ziema/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2019/ziema/" style="padding-left:3rem;">
+        Ziema
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2019/decembris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2019/decembris/" style="padding-left:3rem;">
+        Decembris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2019/novembris/" title="" class="dd-item active">
+        <a href="/laika_apstaklu_raksturojums/2019/novembris/" style="padding-left:3rem;">
+        Novembris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2019/oktobris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2019/oktobris/" style="padding-left:3rem;">
+        Oktobris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2019/septembris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2019/septembris/" style="padding-left:3rem;">
+        Septembris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2019/augusts/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2019/augusts/" style="padding-left:3rem;">
+        Augusts
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2019/julijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2019/julijs/" style="padding-left:3rem;">
+        Jūlijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2019/junijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2019/junijs/" style="padding-left:3rem;">
+        Jūnijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2019/maijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2019/maijs/" style="padding-left:3rem;">
+        Maijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2019/aprilis/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2019/aprilis/" style="padding-left:3rem;">
+        Aprīlis
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2019/marts/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2019/marts/" style="padding-left:3rem;">
+        Marts
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2019/februaris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2019/februaris/" style="padding-left:3rem;">
+        Februāris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2019/janvaris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2019/janvaris/" style="padding-left:3rem;">
+        Janvāris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/laika_apstaklu_raksturojums/2018/" title="" class="dd-item
+      parent
+      collapsed-chapter
+      
+      ">
+      
+        <div class="menu-parent-div">
+          <div class="menu-label" style="margin-left:2rem !important;">
+            2018
+          </div>
+          <div class="menu-right">
+            <i class="fas fa-caret-down" aria-hidden="true"></i>
+            <i class="fas fa-caret-up" aria-hidden="true"></i>
+          </div>
+        </div>
+      
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2018/gads/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2018/gads/" style="padding-left:3rem;">
+        Gads
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2018/rudens/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2018/rudens/" style="padding-left:3rem;">
+        Rudens
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2018/vasara/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2018/vasara/" style="padding-left:3rem;">
+        Vasara
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2018/pavasaris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2018/pavasaris/" style="padding-left:3rem;">
+        Pavasaris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2018/ziema/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2018/ziema/" style="padding-left:3rem;">
+        Ziema
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2018/decembris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2018/decembris/" style="padding-left:3rem;">
+        Decembris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2018/novembris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2018/novembris/" style="padding-left:3rem;">
+        Novembris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2018/oktobris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2018/oktobris/" style="padding-left:3rem;">
+        Oktobris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2018/septembris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2018/septembris/" style="padding-left:3rem;">
+        Septembris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2018/augusts/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2018/augusts/" style="padding-left:3rem;">
+        Augusts
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2018/julijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2018/julijs/" style="padding-left:3rem;">
+        Jūlijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2018/junijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2018/junijs/" style="padding-left:3rem;">
+        Jūnijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2018/maijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2018/maijs/" style="padding-left:3rem;">
+        Maijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2018/aprilis/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2018/aprilis/" style="padding-left:3rem;">
+        Aprīlis
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2018/marts/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2018/marts/" style="padding-left:3rem;">
+        Marts
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2018/februaris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2018/februaris/" style="padding-left:3rem;">
+        Februāris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2018/janvaris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2018/janvaris/" style="padding-left:3rem;">
+        Janvāris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/laika_apstaklu_raksturojums/2017/" title="" class="dd-item
+      parent
+      collapsed-chapter
+      
+      ">
+      
+        <div class="menu-parent-div">
+          <div class="menu-label" style="margin-left:2rem !important;">
+            2017
+          </div>
+          <div class="menu-right">
+            <i class="fas fa-caret-down" aria-hidden="true"></i>
+            <i class="fas fa-caret-up" aria-hidden="true"></i>
+          </div>
+        </div>
+      
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2017/gads/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2017/gads/" style="padding-left:3rem;">
+        Gads
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2017/decembris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2017/decembris/" style="padding-left:3rem;">
+        Decembris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2017/novembris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2017/novembris/" style="padding-left:3rem;">
+        Novembris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2017/oktobris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2017/oktobris/" style="padding-left:3rem;">
+        Oktobris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2017/septembris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2017/septembris/" style="padding-left:3rem;">
+        Septembris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2017/augusts/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2017/augusts/" style="padding-left:3rem;">
+        Augusts
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2017/julijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2017/julijs/" style="padding-left:3rem;">
+        Jūlijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2017/junijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2017/junijs/" style="padding-left:3rem;">
+        Jūnijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2017/maijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2017/maijs/" style="padding-left:3rem;">
+        Maijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2017/aprilis/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2017/aprilis/" style="padding-left:3rem;">
+        Aprīlis
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2017/marts/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2017/marts/" style="padding-left:3rem;">
+        Marts
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2017/februaris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2017/februaris/" style="padding-left:3rem;">
+        Februāris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2017/janvaris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2017/janvaris/" style="padding-left:3rem;">
+        Janvāris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/laika_apstaklu_raksturojums/2016/" title="" class="dd-item
+      parent
+      collapsed-chapter
+      
+      ">
+      
+        <div class="menu-parent-div">
+          <div class="menu-label" style="margin-left:2rem !important;">
+            2016
+          </div>
+          <div class="menu-right">
+            <i class="fas fa-caret-down" aria-hidden="true"></i>
+            <i class="fas fa-caret-up" aria-hidden="true"></i>
+          </div>
+        </div>
+      
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2016/decembris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2016/decembris/" style="padding-left:3rem;">
+        Decembris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2016/novembris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2016/novembris/" style="padding-left:3rem;">
+        Novembris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2016/oktobris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2016/oktobris/" style="padding-left:3rem;">
+        Oktobris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2016/septembris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2016/septembris/" style="padding-left:3rem;">
+        Septembris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2016/augusts/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2016/augusts/" style="padding-left:3rem;">
+        Augusts
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2016/julijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2016/julijs/" style="padding-left:3rem;">
+        Jūlijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2016/junijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2016/junijs/" style="padding-left:3rem;">
+        Jūnijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2016/maijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2016/maijs/" style="padding-left:3rem;">
+        Maijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2016/aprilis/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2016/aprilis/" style="padding-left:3rem;">
+        Aprīlis
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2016/marts/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2016/marts/" style="padding-left:3rem;">
+        Marts
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2016/februaris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2016/februaris/" style="padding-left:3rem;">
+        Februāris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2016/janvaris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2016/janvaris/" style="padding-left:3rem;">
+        Janvāris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/laika_apstaklu_raksturojums/2015/" title="" class="dd-item
+      parent
+      collapsed-chapter
+      
+      ">
+      
+        <div class="menu-parent-div">
+          <div class="menu-label" style="margin-left:2rem !important;">
+            2015
+          </div>
+          <div class="menu-right">
+            <i class="fas fa-caret-down" aria-hidden="true"></i>
+            <i class="fas fa-caret-up" aria-hidden="true"></i>
+          </div>
+        </div>
+      
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2015/gads/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2015/gads/" style="padding-left:3rem;">
+        Gads
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2015/decembris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2015/decembris/" style="padding-left:3rem;">
+        Decembris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2015/novembris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2015/novembris/" style="padding-left:3rem;">
+        Novembris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2015/oktobris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2015/oktobris/" style="padding-left:3rem;">
+        Oktobris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2015/septembris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2015/septembris/" style="padding-left:3rem;">
+        Septembris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2015/augusts/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2015/augusts/" style="padding-left:3rem;">
+        Augusts
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2015/julijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2015/julijs/" style="padding-left:3rem;">
+        Jūlijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2015/junijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2015/junijs/" style="padding-left:3rem;">
+        Jūnijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2015/maijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2015/maijs/" style="padding-left:3rem;">
+        Maijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2015/aprilis/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2015/aprilis/" style="padding-left:3rem;">
+        Aprīlis
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2015/marts/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2015/marts/" style="padding-left:3rem;">
+        Marts
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2015/februaris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2015/februaris/" style="padding-left:3rem;">
+        Februāris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2015/janvaris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2015/janvaris/" style="padding-left:3rem;">
+        Janvāris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/laika_apstaklu_raksturojums/2014/" title="" class="dd-item
+      parent
+      collapsed-chapter
+      
+      ">
+      
+        <div class="menu-parent-div">
+          <div class="menu-label" style="margin-left:2rem !important;">
+            2014
+          </div>
+          <div class="menu-right">
+            <i class="fas fa-caret-down" aria-hidden="true"></i>
+            <i class="fas fa-caret-up" aria-hidden="true"></i>
+          </div>
+        </div>
+      
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2014/gads/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2014/gads/" style="padding-left:3rem;">
+        Gads
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2014/decembris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2014/decembris/" style="padding-left:3rem;">
+        Decembris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2014/novembris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2014/novembris/" style="padding-left:3rem;">
+        Novembris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2014/oktobris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2014/oktobris/" style="padding-left:3rem;">
+        Oktobris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2014/septembris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2014/septembris/" style="padding-left:3rem;">
+        Septembris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2014/augusts/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2014/augusts/" style="padding-left:3rem;">
+        Augusts
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2014/julijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2014/julijs/" style="padding-left:3rem;">
+        Jūlijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2014/junijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2014/junijs/" style="padding-left:3rem;">
+        Jūnijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2014/maijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2014/maijs/" style="padding-left:3rem;">
+        Maijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2014/aprilis/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2014/aprilis/" style="padding-left:3rem;">
+        Aprīlis
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2014/marts/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2014/marts/" style="padding-left:3rem;">
+        Marts
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2014/februaris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2014/februaris/" style="padding-left:3rem;">
+        Februāris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2014/janvaris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2014/janvaris/" style="padding-left:3rem;">
+        Janvāris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/laika_apstaklu_raksturojums/2013/" title="" class="dd-item
+      parent
+      collapsed-chapter
+      
+      ">
+      
+        <div class="menu-parent-div">
+          <div class="menu-label" style="margin-left:2rem !important;">
+            2013
+          </div>
+          <div class="menu-right">
+            <i class="fas fa-caret-down" aria-hidden="true"></i>
+            <i class="fas fa-caret-up" aria-hidden="true"></i>
+          </div>
+        </div>
+      
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2013/gads/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2013/gads/" style="padding-left:3rem;">
+        Gads
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2013/decembris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2013/decembris/" style="padding-left:3rem;">
+        Decembris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2013/novembris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2013/novembris/" style="padding-left:3rem;">
+        Novembris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2013/oktobris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2013/oktobris/" style="padding-left:3rem;">
+        Oktobris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2013/septembris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2013/septembris/" style="padding-left:3rem;">
+        Septembris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2013/augusts/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2013/augusts/" style="padding-left:3rem;">
+        Augusts
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2013/julijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2013/julijs/" style="padding-left:3rem;">
+        Jūlijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2013/junijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2013/junijs/" style="padding-left:3rem;">
+        Jūnijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2013/maijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2013/maijs/" style="padding-left:3rem;">
+        Maijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2013/aprilis/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2013/aprilis/" style="padding-left:3rem;">
+        Aprīlis
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2013/marts/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2013/marts/" style="padding-left:3rem;">
+        Marts
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2013/februaris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2013/februaris/" style="padding-left:3rem;">
+        Februāris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2013/janvaris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2013/janvaris/" style="padding-left:3rem;">
+        Janvāris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+    <li data-nav-id="/laika_apstaklu_raksturojums/2012/" title="" class="dd-item
+      parent
+      collapsed-chapter
+      
+      ">
+      
+        <div class="menu-parent-div">
+          <div class="menu-label" style="margin-left:2rem !important;">
+            2012
+          </div>
+          <div class="menu-right">
+            <i class="fas fa-caret-down" aria-hidden="true"></i>
+            <i class="fas fa-caret-up" aria-hidden="true"></i>
+          </div>
+        </div>
+      
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2012/gads/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2012/gads/" style="padding-left:3rem;">
+        Gads
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2012/decembris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2012/decembris/" style="padding-left:3rem;">
+        Decembris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2012/novembris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2012/novembris/" style="padding-left:3rem;">
+        Novembris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2012/oktobris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2012/oktobris/" style="padding-left:3rem;">
+        Oktobris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2012/septembris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2012/septembris/" style="padding-left:3rem;">
+        Septembris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2012/augusts/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2012/augusts/" style="padding-left:3rem;">
+        Augusts
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2012/julijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2012/julijs/" style="padding-left:3rem;">
+        Jūlijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2012/junijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2012/junijs/" style="padding-left:3rem;">
+        Jūnijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2012/maijs/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2012/maijs/" style="padding-left:3rem;">
+        Maijs
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2012/aprilis/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2012/aprilis/" style="padding-left:3rem;">
+        Aprīlis
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2012/marts/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2012/marts/" style="padding-left:3rem;">
+        Marts
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2012/februaris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2012/februaris/" style="padding-left:3rem;">
+        Februāris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+
+
+
+ 
+  
+    
+      <li data-nav-id="/laika_apstaklu_raksturojums/2012/janvaris/" title="" class="dd-item ">
+        <a href="/laika_apstaklu_raksturojums/2012/janvaris/" style="padding-left:3rem;">
+        Janvāris
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
+         
+    </ul>
+
+    
+    
+
+    
+    <section id="footer">
+      
+
+    </section>
+  </div>
+</nav>
+
+
+
+
+        <section id="body">
+        
+        <div class="padding">
+              <div id="top-bar-wrapper">
+                <div id="top-bar">
+                                
+                <div id="top-bar-logo">
+                  <a href="https://videscentrs.lvgmc.lv"><img alt="LVGMC logo" src="/img/LVGMC_1300_aplis.png"></a>
+                </div>
+                <div id="breadcrumbs" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                    <span id="sidebar-toggle-span">
+                        <a href="#" id="sidebar-toggle" data-sidebar-toggle="">
+                          <i class="fas fa-bars"></i>
+                          <span class="visually-hidden">Izvēlne</span>
+                          <i class="fas fa-times"></i>
+                        </a>
+                    </span>
+                  <span class="links">
+                 
+                 
+                   
+                 
+                  </span>
+                </div>
+              </div>
+            </div>
+        <div id="head-tags">
+        
+        </div>
+        
+        <div id="overlay"></div>
+        <div id="body-inner">
+          
+            <h1>
+              
+              
+            </h1>
+          
+        
+
+
+<h1 id="novembris-2019">Novembris, 2019</h1>
+<h2 id="novembra-mēneša-apskats">Novembra mēneša apskats</h2>
+<p>Novembra vidējā gaisa temperatūra Latvijā bija +4,0°C, kas ir 2,4°C virs mēneša normas. Mēneša minimālā gaisa temperatūra -10,8°C tika novērota 25. novembrī Madonā, bet maksimālā gaisa temperatūra +12,8°C – 4. novembrī Daugavpilī. Kopumā novembrī tika pārspēti 43 rekordi, starp kuriem bija divi Latvijas diennakts maksimālās gaisa temperatūras rekordi, kā arī 4 novērojumu staciju dekādes maksimālās gaisa temperatūras rekordi. Atkārtots tika viens diennakts maksimālās gaisa temperatūras rekords.</p>
+<p>
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <img 
+    sizes="100vw"
+    srcset='
+    
+      /laika_apstaklu_raksturojums/2019/novembris/rekordi_menesis5_huc68ce3add7fb5860da143f4490d6d42a_67303_600x0_resize_q75_bgffffff_box_2.jpg 900w
+    
+    
+      , /laika_apstaklu_raksturojums/2019/novembris/rekordi_menesis5.PNG 1200w
+    '
+    src="/laika_apstaklu_raksturojums/2019/novembris/rekordi_menesis5.PNG"
+    alt="rekordi_menesis5.PNG"
+    loading="lazy"
+    style="max-width:713px;"
+  >
+</p>
+<p>
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <img 
+    sizes="100vw"
+    srcset='
+    
+      /laika_apstaklu_raksturojums/2019/novembris/4_dek_temp19_hufa54e645f200d65b829d93b2233c5c88_99248_600x0_resize_q75_bgffffff_box_2.jpg 900w
+    
+    
+      , /laika_apstaklu_raksturojums/2019/novembris/4_dek_temp19.png 1200w
+    '
+    src="/laika_apstaklu_raksturojums/2019/novembris/4_dek_temp19.png"
+    alt="4_dek_temp19.png"
+    loading="lazy"
+    style="max-width:1600px;"
+  >
+</p>
+<p>Kopējais nokrišņu daudzums Latvijā novembrī bija 73,2 mm, kas ir 18% virs mēneša normas (61,9 mm). Visvairāk nokrišņu bija Rēzeknē – 127,2 mm, bet vismazāk nokrišņu – Bauskā (44,5 mm). Vidēji Latvijā novembrī bija 10,9 diennaktis ar nokrišņu daudzumu vismaz 1 mm. Visvairāk šādu diennakšu bija Liepājā, Ventspilī un Zosēnos – 14 diennaktis, bet vismazāk Bauskā - 7.</p>
+<p>
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <img 
+    sizes="100vw"
+    srcset='
+    
+      /laika_apstaklu_raksturojums/2019/novembris/4_dek_nok21_huddb332dcaaf0f58e9c0db38ad3affef8_133400_600x0_resize_q75_bgffffff_box_2.jpg 900w
+    
+    
+      , /laika_apstaklu_raksturojums/2019/novembris/4_dek_nok21.png 1200w
+    '
+    src="/laika_apstaklu_raksturojums/2019/novembris/4_dek_nok21.png"
+    alt="4_dek_nok21.png"
+    loading="lazy"
+    style="max-width:1600px;"
+  >
+</p>
+<p>Lielākajā daļā Latvijas Saule spīdēja līdz 20 stundām mazāk nekā ierasts, bet Sēlijā un centrālajos rajonos pat līdz 40 stundām mazāk.</p>
+<p>
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <img 
+    sizes="100vw"
+    srcset='
+    
+      /laika_apstaklu_raksturojums/2019/novembris/Analysis_for_2019_nov_lvgmc__hu93b10fefc24af9a237ba8c87051ec9f3_186953_600x0_resize_q75_bgffffff_box_2.jpg 900w
+    
+    
+      , /laika_apstaklu_raksturojums/2019/novembris/Analysis_for_2019_nov_lvgmc_.png 1200w
+    '
+    src="/laika_apstaklu_raksturojums/2019/novembris/Analysis_for_2019_nov_lvgmc_.png"
+    alt="Analysis_for_2019_nov_lvgmc_.png"
+    loading="lazy"
+    style="max-width:1600px;"
+  >
+</p>
+<p>Vidējais relatīvais gaisa mitrums Latvijā novembrī bija 89% - no 86% Daugavpilī, Rīgā un Skultē līdz 92% Madonā un Saldū.</p>
+<p>Visstiprākās vēja brāzmas (20,5 m/s) tika novērotas 29. novembrī Ventspilī.</p>
+<p>
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <img 
+    sizes="100vw"
+    srcset='
+    
+      /laika_apstaklu_raksturojums/2019/novembris/4_dek_vejs18_hua0e73dfcf6920fa3b720105a8dffdffa_63885_600x0_resize_q75_bgffffff_box_2.jpg 900w
+    
+    
+      , /laika_apstaklu_raksturojums/2019/novembris/4_dek_vejs18.png 1200w
+    '
+    src="/laika_apstaklu_raksturojums/2019/novembris/4_dek_vejs18.png"
+    alt="4_dek_vejs18.png"
+    loading="lazy"
+    style="max-width:1600px;"
+  >
+</p>
+<h2 id="novembra-3-dekādes-apskats">Novembra 3. dekādes apskats</h2>
+<p>Novembra 3. dekādē vidējā gaisa temperatūra Latvijā bija 0,0°C, kas ir 0,3°C zem dekādes normas. Dekādes minimālā gaisa temperatūra -10,8°C 25. novembrī tika novērota Madonā, bet maksimālā gaisa temperatūra +8,8°C – 29. novembrī Liepājā.</p>
+<p>
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <img 
+    sizes="100vw"
+    srcset='
+    
+      /laika_apstaklu_raksturojums/2019/novembris/3_dek_temp17_hu40b9cf8331b85ed51ce4802ef1830871_90207_600x0_resize_q75_bgffffff_box_2.jpg 900w
+    
+    
+      , /laika_apstaklu_raksturojums/2019/novembris/3_dek_temp17.png 1200w
+    '
+    src="/laika_apstaklu_raksturojums/2019/novembris/3_dek_temp17.png"
+    alt="3_dek_temp17.png"
+    loading="lazy"
+    style="max-width:1600px;"
+  >
+</p>
+<p>Kopējais nokrišņu daudzums Latvijā novembra 3. dekādē bija 6,8 mm, kas ir 67% zem dekādes normas (20,3 mm). Vismazāk nokrišņu bija Alūksnē – 1,7 mm, bet visvairāk nokrišņu – Ventspilī (17,4 mm). Vidēji Latvijā novembra 3. dekādē bija 2 diennaktis ar nokrišņu daudzumu vismaz 1 mm. Visvairāk šādu diennakšu bija Kuldīgā, Liepājā, Mērsragā, Piedrujā, Rucavā, Rūjienā, Saldū, Siguldā, Stendē, Ventspilī, Vičakos un Zosēnos – 3 diennaktis, bet Alūksnē šādu diennakšu nebija.</p>
+<p>
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <img 
+    sizes="100vw"
+    srcset='
+    
+      /laika_apstaklu_raksturojums/2019/novembris/3_dek_nok19_hu52bb877f099b6df2094bf32d9826782e_109060_600x0_resize_q75_bgffffff_box_2.jpg 900w
+    
+    
+      , /laika_apstaklu_raksturojums/2019/novembris/3_dek_nok19.png 1200w
+    '
+    src="/laika_apstaklu_raksturojums/2019/novembris/3_dek_nok19.png"
+    alt="3_dek_nok19.png"
+    loading="lazy"
+    style="max-width:1600px;"
+  >
+</p>
+<p>Vidējais relatīvais gaisa mitrums Latvijā novembra 3. dekādē bija 82% - no 78% Daugavpilī, Rīgā un Skultē līdz 87% Saldū.</p>
+<p>Visstiprākās vēja brāzmas (20,5 m/s) tika novērotas 29. novembrī Ventspilī.</p>
+<p>
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <img 
+    sizes="100vw"
+    srcset='
+    
+      /laika_apstaklu_raksturojums/2019/novembris/3_dek_vejs19_huc88eac58bc7a5ddf8d03c6a78ca0922c_50275_600x0_resize_q75_bgffffff_box_2.jpg 900w
+    
+    
+      , /laika_apstaklu_raksturojums/2019/novembris/3_dek_vejs19.png 1200w
+    '
+    src="/laika_apstaklu_raksturojums/2019/novembris/3_dek_vejs19.png"
+    alt="3_dek_vejs19.png"
+    loading="lazy"
+    style="max-width:1600px;"
+  >
+</p>
+<h2 id="novembra-2-dekādes-apskats">Novembra 2. dekādes apskats</h2>
+<p>Novembra 2. dekādē vidējā gaisa temperatūra Latvijā bija +6,5°C, kas ir 4,9°C virs dekādes normas. Dekādes minimālā gaisa temperatūra -2,9°C 12. novembrī tika novērota Mērsragā, bet maksimālā gaisa temperatūra +12,7°C – 14. novembrī Ainažos, kas ir arī jauns Latvijas 14. novembra un Ainažu novembra 2. dekādes maksimālās gaisa temperatūras rekords. Kopumā novembra 2. dekādē tika pārspēti 36 maksimālās gaisa temperatūras rekordi, starp kuriem bija arī Latvijas 13. un 14. novembra rekordi un 4 novērojumu staciju dekāžu rekordi, bet atkārtots tika 1 diennakts maksimālās gaisa temperatūras rekords.</p>
+<p>
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <img 
+    sizes="100vw"
+    srcset='
+    
+      /laika_apstaklu_raksturojums/2019/novembris/2_dek_temp15_hu0d7ec52f7fb393b907c3100285183365_77199_600x0_resize_q75_bgffffff_box_2.jpg 900w
+    
+    
+      , /laika_apstaklu_raksturojums/2019/novembris/2_dek_temp15.png 1200w
+    '
+    src="/laika_apstaklu_raksturojums/2019/novembris/2_dek_temp15.png"
+    alt="2_dek_temp15.png"
+    loading="lazy"
+    style="max-width:1600px;"
+  >
+</p>
+<p>
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <img 
+    sizes="100vw"
+    srcset='
+    
+      /laika_apstaklu_raksturojums/2019/novembris/2_dek_rekordi_hu7453965e5dc48b7fff2d5dc4629825aa_31674_600x0_resize_q75_bgffffff_box_2.jpg 900w
+    
+    
+      , /laika_apstaklu_raksturojums/2019/novembris/2_dek_rekordi.PNG 1200w
+    '
+    src="/laika_apstaklu_raksturojums/2019/novembris/2_dek_rekordi.PNG"
+    alt="2_dek_rekordi.PNG"
+    loading="lazy"
+    style="max-width:595px;"
+  >
+</p>
+<p>Kopējais nokrišņu daudzums Latvijā novembra 2. dekādē bija 9,1 mm, kas ir 56% zem dekādes normas (20,5 mm). Vismazāk nokrišņu bija Bauskā – 1,2 mm, bet visvairāk nokrišņu – Stendē (17,3 mm). Vidēji Latvijā novembra 2. dekādē bija 1,9 diennaktis ar nokrišņu daudzumu vismaz 1 mm. Visvairāk šādu diennakšu bija Ainažos – 4 diennaktis, bet Bauskā šādu diennakšu nebija.</p>
+<p>
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <img 
+    sizes="100vw"
+    srcset='
+    
+      /laika_apstaklu_raksturojums/2019/novembris/2_dek_nok18_hu8554f6b38cb067334320ec026f27fd1b_136837_600x0_resize_q75_bgffffff_box_2.jpg 900w
+    
+    
+      , /laika_apstaklu_raksturojums/2019/novembris/2_dek_nok18.png 1200w
+    '
+    src="/laika_apstaklu_raksturojums/2019/novembris/2_dek_nok18.png"
+    alt="2_dek_nok18.png"
+    loading="lazy"
+    style="max-width:1600px;"
+  >
+</p>
+<p>Vidējais relatīvais gaisa mitrums Latvijā novembra 2. dekādē bija 92% - no 88% Rīgā līdz 95% Saldū.</p>
+<p>Visstiprākās vēja brāzmas (17,8 m/s) tika novērotas 14. novembrī Liepājā.</p>
+<p>
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <img 
+    sizes="100vw"
+    srcset='
+    
+      /laika_apstaklu_raksturojums/2019/novembris/2_dek_vejs17_hu0e61fda7219318f785e8dcfd9fe91bd9_48024_600x0_resize_q75_bgffffff_box_2.jpg 900w
+    
+    
+      , /laika_apstaklu_raksturojums/2019/novembris/2_dek_vejs17.png 1200w
+    '
+    src="/laika_apstaklu_raksturojums/2019/novembris/2_dek_vejs17.png"
+    alt="2_dek_vejs17.png"
+    loading="lazy"
+    style="max-width:1600px;"
+  >
+</p>
+<h2 id="novembra-1-dekādes-apskats">Novembra 1. dekādes apskats</h2>
+<p>Novembra 1. dekādē vidējā gaisa temperatūra Latvijā bija +5,6°C, kas ir 2,4°C virs dekādes normas. Dekādes minimālā gaisa temperatūra -0,9°C  1. novembrī tika novērota Rūjienā bet maksimālā gaisa temperatūra +12,8°C 4. novembrī Daugavpilī. Novembra 1. dekādē tika pārspēti septiņi diennakts maksimālās gaisa temperatūras rekordi.</p>
+<p>
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <img 
+    sizes="100vw"
+    srcset='
+    
+    
+      , /laika_apstaklu_raksturojums/2019/novembris/1_dek_rekordi.PNG 1200w
+    '
+    src="/laika_apstaklu_raksturojums/2019/novembris/1_dek_rekordi.PNG"
+    alt="1_dek_rekordi.PNG"
+    loading="lazy"
+    style="max-width:398px;"
+  >
+</p>
+<p>
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <img 
+    sizes="100vw"
+    srcset='
+    
+      /laika_apstaklu_raksturojums/2019/novembris/1_dek_temp17_hu290b8927926b07ff4daf2e4cb0a293af_112161_600x0_resize_q75_bgffffff_box_2.jpg 900w
+    
+    
+      , /laika_apstaklu_raksturojums/2019/novembris/1_dek_temp17.png 1200w
+    '
+    src="/laika_apstaklu_raksturojums/2019/novembris/1_dek_temp17.png"
+    alt="1_dek_temp17.png"
+    loading="lazy"
+    style="max-width:1600px;"
+  >
+</p>
+<p>Kopējais nokrišņu daudzums Latvijā novembra 1. dekādē bija 58,6 mm, kas ir 178% virs dekādes normas (21,1 mm) un tikai 5% (3,3 mm) zem mēneša normas. Šī gada novembra 1. dekādei kļūstot par 2. mitrāko novembra 1. dekādi novērojumu vēsturē (kopš 1924. gada), atpaliekot vien no 1930. gada novembra sākuma, kad vidēji Latvijā nokrišņu daudzums bija 66 mm. Vismazāk nokrišņu bija Dobelē – 37,4 mm, bet visvairāk nokrišņu – Rēzeknē (104,8), kas ir arī jauns novembra 1. dekādes Rēzeknes nokrišņu daudzuma rekords. Kopumā 5 novērojumu stacijās - Alūksnē (58,5 mm), Kolkā (58,3 mm), Mērsragā (89,4 mm), Rēzeknē (104,8 mm) un Zosēnos (55,3 mm), šī gada novembra 1. dekāde bija mitrākā novērojumu staciju vēsturē. Vidēji Latvijā novembra 1. dekādē bija 7,1 diennaktis ar nokrišņu daudzumu vismaz 1 mm. Visvairāk šādu diennakšu bija Liepājā, Skrīveros un Zosēnos – 9 diennaktis, bet vismazāk Rīgā un Stendē - 5 diennaktis.</p>
+<p>
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <img 
+    sizes="100vw"
+    srcset='
+    
+      /laika_apstaklu_raksturojums/2019/novembris/1_dek_nok17_hub09f88159aa618d2a41a69d48c5ebbfe_153617_600x0_resize_q75_bgffffff_box_2.jpg 900w
+    
+    
+      , /laika_apstaklu_raksturojums/2019/novembris/1_dek_nok17.png 1200w
+    '
+    src="/laika_apstaklu_raksturojums/2019/novembris/1_dek_nok17.png"
+    alt="1_dek_nok17.png"
+    loading="lazy"
+    style="max-width:1600px;"
+  >
+</p>
+<p>Vidējais relatīvais gaisa mitrums Latvijā novembra 1. dekādē bija 94% - no 91% Daugavpilī līdz 97% Madonā.</p>
+<p>Visstiprākās vēja brāzmas (18,9 m/s) tika novērotas 4. novembrī Kolkā.</p>
+<p>
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <img 
+    sizes="100vw"
+    srcset='
+    
+      /laika_apstaklu_raksturojums/2019/novembris/1_dek_vejs17_hu2ed373435123f2bc44381b5b6c1f6617_49024_600x0_resize_q75_bgffffff_box_2.jpg 900w
+    
+    
+      , /laika_apstaklu_raksturojums/2019/novembris/1_dek_vejs17.png 1200w
+    '
+    src="/laika_apstaklu_raksturojums/2019/novembris/1_dek_vejs17.png"
+    alt="1_dek_vejs17.png"
+    loading="lazy"
+    style="max-width:1600px;"
+  >
+</p>
+
+
+<footer class="footline">
+	
+</footer>
+
+        
+        </div> 
+        
+
+      </div>
+
+    <div id="navigation">
+        
+        
+        
+        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+            
+        
+                    
+            
+        
+        
+        
+
+
+	 
+	 
+    </div>
+
+    </section>
+    
+    <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
+      <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
+    </div>
+    <script defer src="/js/clipboard.min.js?1604315998"></script>
+    <script defer src="/js/perfect-scrollbar.min.js?1604315998"></script>
+    <script defer src="/js/perfect-scrollbar.jquery.min.js?1604315998"></script>
+    <script defer src="/js/featherlight.min.js?1604315998"></script>
+    <script defer src="/js/modernizr.custom-3.6.0.js?1604315998"></script>
+    <script defer src="/js/learn.js?1604315998"></script>
+    <script defer src="/js/hugo-learn.js?1604315998"></script>
+    
+    
+
+  </body>
+</html>
+
