@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>klimats.meteo.lv</title>
-    <link>https://lvgmcklimats.github.io/</link>
+    <link>https://lvgmcklimats.github.io</link>
     <description>Recent content on klimats.meteo.lv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>lv</language>
@@ -45,8 +45,10 @@
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2015/gads/</guid>
       <description>Laika apstākļi Latvijā 2015. gadā 2015. gadā vidējā gaisa temperatūra Latvijā bija +7,8°C (2,1 grādu virs 1961.-1990. gadu normas), padarot to par siltāko gadu ilggadīgajā datu rindā (1.att.).
-Ar kopējo nokrišņu daudzumu 606 mm (92% no normas), 2015. gads kļuva par 23. sausāko gadu 92 gadu ilgajā periodā un 3. sausāko 21. gadsimtā (2.att.).
-Gandrīz visos 2015. gada mēnešos, kā arī visi gadalaikos vidējās gaisa temperatūras bija virs normas, zemāk par normu bija tikai maijā, jūnijā un oktobrī (3.</description>
+
+Ar kopējo nokrišņu daudzumu 606 mm (92% no normas), 2015. gads kļuva par 23. sausāko gadu 92 gadu ilgajā periodā un 3. sausāko 21. gadsimtā (2.att.).
+
+Gandrīz visos 2015. gada mēnešos, kā arī visi gadalaikos vidējās gaisa temperatūras bija virs normas, zemāk par normu bija tikai maijā, jūnijā un oktobrī (3.</description>
     </item>
     
     <item>
@@ -56,8 +58,12 @@
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2017/gads/</guid>
       <description>Gads, 2017 2017. gada vidējā gaisa temperatūra bija +6,9°C (0,5 grādus virs 1981.-2010. gadu normas), tādēļ tas kļuva par 20. siltāko gadu ilggadīgo datu rindā un par 9. siltāko līdz šim 21. gadsimtā.
-Ar kopējo nokrišņu daudzumu 809,8 mm (117% no normas), 2017. gads bija 7. mitrākais pēdējos 94 gados un 3. mitrākais 21. gadsimtā.
-Gada pirmie trīs mēneši bija siltāki par normu, savukārt periods no aprīļa līdz jūlijam bija vēsāks par normu.</description>
+
+
+Ar kopējo nokrišņu daudzumu 809,8 mm (117% no normas), 2017. gads bija 7. mitrākais pēdējos 94 gados un 3. mitrākais 21. gadsimtā.
+
+
+Gada pirmie trīs mēneši bija siltāki par normu, savukārt periods no aprīļa līdz jūlijam bija vēsāks par normu.</description>
     </item>
     
     <item>
@@ -204,7 +210,9 @@ Kopējais decembra nokrišņu daudzums vidēji Latvijā bija 61,1 mm, kas ir 115
       <pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate>
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2015/decembris/</guid>
-      <description>Laika apstākļu raksturojums 2015. gada decembrī </description>
+      <description>Laika apstākļu raksturojums 2015. gada decembrī 
+
+</description>
     </item>
     
     <item>
@@ -223,7 +231,8 @@ Kopējais decembra nokrišņu daudzums vidēji Latvijā bija 61,1 mm, kas ir 115
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2017/decembris/</guid>
       <description>Decembris, 2017 Decembra mēneša apskats Decembra vidējā gaisa temperatūra Latvijā bija +1,2°C, kas ir 3,2°C virs mēneša normas. Mēneša maksimālā gaisa temperatūra +8,2°C 26. decembrī tika novērota Kolkā, bet minimālā gaisa temperatūra -6,1°C – 25. decembrī Ainažos. Decembrī tika pārspēti 2 diennakts maksimālās gaisa temperatūras rekordi un 2 atkārtoti.
-Kopējais nokrišņu daudzums Latvijā decembrī bija 65,8 mm, kas ir 19% virs mēneša normas (55,4 mm). Visvairāk nokrišņu bija Ventspilī – 137,8 mm, bet vismazāk nokrišņu – Mērsragā (31,5 mm).</description>
+
+Kopējais nokrišņu daudzums Latvijā decembrī bija 65,8 mm, kas ir 19% virs mēneša normas (55,4 mm). Visvairāk nokrišņu bija Ventspilī – 137,8 mm, bet vismazāk nokrišņu – Mērsragā (31,5 mm).</description>
     </item>
     
     <item>
@@ -278,7 +287,10 @@ Kopējais nokrišņu daudzums Latvijā decembrī bija 32,0 mm, kas ir 42% zem m�
       <pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate>
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2015/novembris/</guid>
-      <description>Laika apstākļu raksturojums 2015. gada novembrī </description>
+      <description>Laika apstākļu raksturojums 2015. gada novembrī 
+
+
+</description>
     </item>
     
     <item>
@@ -307,7 +319,8 @@ Kopējais nokrišņu daudzums Latvijā novembrī bija 69,7 mm, kas ir 13% virs m
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2018/novembris/</guid>
       <description>Novembris, 2018 Novembra mēneša apskats Novembra vidējā gaisa temperatūra Latvijā bija +3,0°C, kas ir 1,4°C virs mēneša normas. Mēneša minimālā gaisa temperatūra -17,1°C 29. novembrī tika novērota Madonā, bet maksimālā gaisa temperatūra +15,1°C – 2. novembrī Kolkā, kas ir arī jauns 2. novembra maksimālās gaisa temperatūras rekords Kolkā. Kopumā novembrī tika pārspēti 3 diennakts maksimālās gaisa temperatūras un 1 diennakts minimālās gaisa temperatūras rekords.
-Kopējais nokrišņu daudzums Latvijā novembrī bija 19,2 mm, kas ir 69% zem mēneša normas (61,9 mm), kļūstot par 4.</description>
+
+Kopējais nokrišņu daudzums Latvijā novembrī bija 19,2 mm, kas ir 69% zem mēneša normas (61,9 mm), kļūstot par 4.</description>
     </item>
     
     <item>
@@ -475,7 +488,8 @@ Septembrī tika pārspēti 2 diennakts gaisa temperatūras rekordi. Saldū 7. se
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2020/septembris/</guid>
       <description>Septembris, 2020 Septembra 2. dekādes apskats Septembra 2. dekādē vidējā gaisa temperatūra Latvijā bija +13,7 °C, kas ir 2,0 °C virs dekādes normas. Dekādes minimālā gaisa temperatūra -0,2 °C 20. septembrī tika novērota Stendē, bet maksimālā gaisa temperatūra +27,4 °C - 16. septembrī Bauskā, kas ir jauns Bauskas 16. septembra maksimālās gaisa temperatūras rekords.
-Kopumā septembra 2. dekādē tika pārspēti 16 diennakts maksimālās gaisa temperatūras rekordi, bet atkārtots tika 1 diennakts maksimālās gaisa temperatūras rekords.</description>
+
+Kopumā septembra 2. dekādē tika pārspēti 16 diennakts maksimālās gaisa temperatūras rekordi, bet atkārtots tika 1 diennakts maksimālās gaisa temperatūras rekords.</description>
     </item>
     
     <item>
@@ -557,8 +571,10 @@ Septembrī tika pārspēti 2 diennakts gaisa temperatūras rekordi. Saldū 7. se
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2020/augusts/</guid>
       <description>Augusts, 2020 Augusta mēneša apskats Augusta vidējā gaisa temperatūra Latvijā bija +17,2°C, kas ir 0,7°C virs mēneša normas. Mēneša maksimālā gaisa temperatūra +30,3°C novērota 16. augustā Dobelē, bet minimālā gaisa temperatūra +3,9°C – 29. augustā Zosēnos.
-Augustā tika pārspēti 4 diennakts minimālās gaisa temperatūras rekordi un viens diennakts maksimālās gaisa temperatūras rekords, bet atkārtoti tika divi diennakts minimālās gaisa temperatūras rekordi.
-Kopējais nokrišņu daudzums Latvijā augustā bija 45,9 mm, kas ir 40% zem mēneša normas (76,7 mm).</description>
+
+Augustā tika pārspēti 4 diennakts minimālās gaisa temperatūras rekordi un viens diennakts maksimālās gaisa temperatūras rekords, bet atkārtoti tika divi diennakts minimālās gaisa temperatūras rekordi.
+
+Kopējais nokrišņu daudzums Latvijā augustā bija 45,9 mm, kas ir 40% zem mēneša normas (76,7 mm).</description>
     </item>
     
     <item>
@@ -640,8 +656,10 @@ Septembrī tika pārspēti 2 diennakts gaisa temperatūras rekordi. Saldū 7. se
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2020/julijs/</guid>
       <description>Jūlijs, 2020 Jūlija mēneša apskats Jūlija vidējā gaisa temperatūra Latvijā bija +16,4°C, kas ir 1,0°C zem mēneša normas.
-Mēneša maksimālā gaisa temperatūra +29,6°C novērota 20. jūlijā Ventspilī, kas ir jauns 20. jūlija maksimālās gaisa temperatūras rekords Ventspilī, pārspējot rekordu, kas tika uzstādīts 1914. gadā. Bet minimālā gaisa temperatūra +5,2°C novērota 26. jūlijā Madonā un Zosēnos, kas ir jauns Madonas 26. jūlija minimālās gaisa temperatūras rekords.
-Kopumā jūlijā tika pārspēti 5 diennakts minimālās un 1 diennakts maksimālās gaisa temperatūras rekordi, bet atkārtoti tika 2 diennakts maksimālās gaisa temperatūras rekordi.</description>
+
+Mēneša maksimālā gaisa temperatūra +29,6°C novērota 20. jūlijā Ventspilī, kas ir jauns 20. jūlija maksimālās gaisa temperatūras rekords Ventspilī, pārspējot rekordu, kas tika uzstādīts 1914. gadā. Bet minimālā gaisa temperatūra +5,2°C novērota 26. jūlijā Madonā un Zosēnos, kas ir jauns Madonas 26. jūlija minimālās gaisa temperatūras rekords.
+
+Kopumā jūlijā tika pārspēti 5 diennakts minimālās un 1 diennakts maksimālās gaisa temperatūras rekordi, bet atkārtoti tika 2 diennakts maksimālās gaisa temperatūras rekordi.</description>
     </item>
     
     <item>
@@ -696,7 +714,8 @@ Septembrī tika pārspēti 2 diennakts gaisa temperatūras rekordi. Saldū 7. se
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2017/junijs/</guid>
       <description>Laika apstākļu raksturojums 2017. gada jūnijā Jūnija mēneša apskats Jūnijā vidējā gaisa temperatūra Latvijā bija +14,1°C, kas ir 0,6°C zem mēneša normas. Mēneša maksimālā gaisa temperatūra +26,6°C 19. jūnijā tika novērota Daugavpilī, bet minimālā gaisa temperatūra -1,3°C – 3. jūnijā Stendē, kas ir jauns Stendes 3. jūnija diennakts minimālās gaisa temperatūras rekords. Kopumā jūnijā tika pārspēti 5 diennakts minimālās gaisa temperatūras rekordi.
-Kopējais nokrišņu daudzums Latvijā jūnijā bija 71,3 mm, kas ir 3% zem mēneša normas (73,8 mm).</description>
+
+Kopējais nokrišņu daudzums Latvijā jūnijā bija 71,3 mm, kas ir 3% zem mēneša normas (73,8 mm).</description>
     </item>
     
     <item>
@@ -706,7 +725,8 @@ Septembrī tika pārspēti 2 diennakts gaisa temperatūras rekordi. Saldū 7. se
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2018/junijs/</guid>
       <description>Jūnijs, 2018 Jūnija mēneša apskats Jūnija vidējā gaisa temperatūra Latvijā bija +15,8°C, kas ir 1,0°C virs mēneša normas. Mēneša minimālā gaisa temperatūra -1,6°C tika novērota 6. jūnijā Stendē, bet maksimālā gaisa temperatūra +30,1°C - 18. jūnijā Daugavpilī, kas bija arī jauns 18. jūnija maksimālās gaisa temperatūras rekords Daugavpilī. Kopumā jūnijā tika pārspēti 6 diennakts maksimālās un 2 diennakts minimālās gaisa temperatūras rekordi.
-Kopējais nokrišņu daudzums Latvijā jūnijā bija 43,9 mm, kas ir 40 % zem mēneša normas (73,3 mm).</description>
+
+Kopējais nokrišņu daudzums Latvijā jūnijā bija 43,9 mm, kas ir 40 % zem mēneša normas (73,3 mm).</description>
     </item>
     
     <item>
@@ -734,7 +754,8 @@ Septembrī tika pārspēti 2 diennakts gaisa temperatūras rekordi. Saldū 7. se
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2012/maijs/</guid>
       <description>Laika apstākļu raksturojums 2012. gada maijā Maija vidējā gaisa temperatūra Latvijā bija +11,7ºC. Tādējādi šī gada maijs bija 0,9 grādus siltāks par ilggadīgo normu un siltāko maija mēnešu datu rindā ierindojās 23. vietā. No 21. gadsimta pavasaru pēdējiem mēnešiem šī gada maijs ir piektais siltākais.
-Maija nokrišņu daudzums vidēji Latvijā bija 67 mm (138% no ilggadīgās normas) ar teritoriālajām svārstībām no 70-80% no normas Ventspilī un Kuldīgā līdz gandrīz 2,5 mēneša normām līdzvērtīgam nokrišņu daudzumam Ogres novada Lielpēčos.</description>
+
+Maija nokrišņu daudzums vidēji Latvijā bija 67 mm (138% no ilggadīgās normas) ar teritoriālajām svārstībām no 70-80% no normas Ventspilī un Kuldīgā līdz gandrīz 2,5 mēneša normām līdzvērtīgam nokrišņu daudzumam Ogres novada Lielpēčos.</description>
     </item>
     
     <item>
@@ -770,7 +791,20 @@ Septembrī tika pārspēti 2 diennakts gaisa temperatūras rekordi. Saldū 7. se
       <pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate>
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2016/maijs/</guid>
-      <description>Laika apstākļu raksturojums 2016. gada maijā Maijā gan sausums un karstums, gan lieti un naktis ar salnām Maija 3. dekādes apskats Maija 2. dekādes apskats Maija 1. dekādes apskats </description>
+      <description>Laika apstākļu raksturojums 2016. gada maijā Maijā gan sausums un karstums, gan lieti un naktis ar salnām 
+
+
+
+Maija 3. dekādes apskats 
+
+
+Maija 2. dekādes apskats 
+
+
+Maija 1. dekādes apskats 
+
+
+</description>
     </item>
     
     <item>
@@ -816,7 +850,8 @@ Septembrī tika pārspēti 2 diennakts gaisa temperatūras rekordi. Saldū 7. se
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2012/aprilis/</guid>
       <description>Laika apstākļu raksturojums 2012. gada aprīlī Aprīļa vidējā gaisa temperatūra Latvijā bija +5,9ºC. Tādējādi šī gada aprīlis bija 1 grādu siltāks par ilggadīgo normu un siltāko aprīļa mēnešu datu rindā ierindojās 27. vietā. No 21. gadsimta pavasaru vidējiem mēnešiem šī gada aprīlis ir piektais siltākais.
-Aprīļa nokrišņu daudzums vidēji Latvijā bija 53 mm (139% no ilggadīgās normas) ar teritoriālajām svārstībām no 82-90% no normas Baltijas jūras piekrastē - Liepājā un Ventspilī - līdz 218-221% Latvijas vidusdaļā - Mežotnē un Kalnciemā.</description>
+
+Aprīļa nokrišņu daudzums vidēji Latvijā bija 53 mm (139% no ilggadīgās normas) ar teritoriālajām svārstībām no 82-90% no normas Baltijas jūras piekrastē - Liepājā un Ventspilī - līdz 218-221% Latvijas vidusdaļā - Mežotnē un Kalnciemā.</description>
     </item>
     
     <item>
@@ -853,7 +888,20 @@ Aizvadītais mēnesis bija nokrišņiem bagāts, un izlijušā lietus daudzums l
       <pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate>
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2016/aprilis/</guid>
-      <description>Laika apstākļu raksturojums 2016. gada aprīlī Aprīļa otrā un trešā dekāde bija nokrišņiem bagātas Aprīļa 3.dekādes apskats Aprīļa 2.dekādes apskats Aprīļa 1.dekādes apskats </description>
+      <description>Laika apstākļu raksturojums 2016. gada aprīlī Aprīļa otrā un trešā dekāde bija nokrišņiem bagātas 
+
+
+
+Aprīļa 3.dekādes apskats 
+
+
+Aprīļa 2.dekādes apskats 
+
+
+Aprīļa 1.dekādes apskats 
+
+
+</description>
     </item>
     
     <item>
@@ -900,7 +948,8 @@ Kopējais nokrišņu daudzums Latvijā aprīlī bija 50,7 mm, kas ir 49% virs m�
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2012/marts/</guid>
       <description>Laika apstākļu raksturojums 2012. gada martā Marta vidējā gaisa temperatūra Latvijā bija +0,9ºC. Tādējādi šī gada marts bija 2,2 grādus siltāks par ilggadīgo normu un siltāko marta mēnešu datu rindā ierindojās 19. vietā. No 21. gadsimta pavasara pirmajiem mēnešiem šī gada marts ir ceturtais siltākais.
-Marta nokrišņu daudzums vidēji Latvijā bija 36 mm (107% no ilggadīgās normas) ar teritoriālajām svārstībām no 47-57% no normas Dobelē un Liepājā līdz 174% Cēsīs.</description>
+
+Marta nokrišņu daudzums vidēji Latvijā bija 36 mm (107% no ilggadīgās normas) ar teritoriālajām svārstībām no 47-57% no normas Dobelē un Liepājā līdz 174% Cēsīs.</description>
     </item>
     
     <item>
@@ -937,7 +986,20 @@ Kopējais nokrišņu daudzums martā Latvijā bija 38.</description>
       <pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate>
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2016/marts/</guid>
-      <description>Laika apstākļu raksturojums 2016. gada martā Martā vidējā gaisa temperatūra bijusi tuvu normai Marta 3. dekādes apskats Marta 2. dekādes apskats Marta 1. dekādes apskats </description>
+      <description>Laika apstākļu raksturojums 2016. gada martā Martā vidējā gaisa temperatūra bijusi tuvu normai 
+
+
+
+Marta 3. dekādes apskats 
+
+
+Marta 2. dekādes apskats 
+
+
+Marta 1. dekādes apskats 
+
+
+</description>
     </item>
     
     <item>
@@ -947,7 +1009,8 @@ Kopējais nokrišņu daudzums martā Latvijā bija 38.</description>
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2017/marts/</guid>
       <description>Laika apstākļu raksturojums 2017. gada martā Marta mēneša apskats 2017. gada martā vidējā gaisa temperatūra Latvijā bija +2,1°C, kas ir 2,3°C virs mēneša normas. Mēneša maksimālā gaisa temperatūra +11,6°C 27. martā tika novērota Kolkā, bet minimālā gaisa temperatūra -6,3°C – 25. martā Daugavpilī. Kopumā martā tika pārspēti 6 diennakts maksimālās gaisa temperatūras rekordi.
-Kopējais nokrišņu daudzums Latvijā martā bija 43,4 mm, kas ir 10% virs mēneša normas (39,4 mm). Visvairāk nokrišņu bija Daugavpilī – 87,3 mm, bet vismazāk nokrišņu - Pāvilostā (19,7 mm).</description>
+
+Kopējais nokrišņu daudzums Latvijā martā bija 43,4 mm, kas ir 10% virs mēneša normas (39,4 mm). Visvairāk nokrišņu bija Daugavpilī – 87,3 mm, bet vismazāk nokrišņu - Pāvilostā (19,7 mm).</description>
     </item>
     
     <item>
@@ -957,7 +1020,8 @@ Kopējais nokrišņu daudzums martā Latvijā bija 38.</description>
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2018/marts/</guid>
       <description>Marts, 2018 Marta mēneša apskats Martā vidējā gaisa temperatūra Latvijā bija -2,4°C, kas ir 2,2°C zem mēneša normas, kļūstot par 4. vēsāko marta mēnesi līdz šim 21. gadsimtā. Mēneša maksimālā gaisa temperatūra +10,9°C 12. martā tika novērota Liepājā, bet minimālā gaisa temperatūra -21,5°C – 3. martā Daugavpilī. Martā tika pārspēti 3 diennakts minimālās gaisa temperatūras rekordi.
-Kopējais nokrišņu daudzums Latvijā martā bija 13,8 mm, kas ir 65% zem mēneša normas (39,9 mm), tādējādi šī gada marts kļuva par līdz šim 3.</description>
+
+Kopējais nokrišņu daudzums Latvijā martā bija 13,8 mm, kas ir 65% zem mēneša normas (39,9 mm), tādējādi šī gada marts kļuva par līdz šim 3.</description>
     </item>
     
     <item>
@@ -967,7 +1031,8 @@ Kopējais nokrišņu daudzums martā Latvijā bija 38.</description>
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2019/marts/</guid>
       <description>Marts, 2019 Marta mēneša apskats Marta vidējā gaisa temperatūra Latvijā bija +2,2°C, kas ir 2,4°C virs mēneša normas, kļūstot par 7. siltāko marta mēnesi novērojumu vēsturē (kopš 1924. gada) un 4. siltāko līdz šim 21. gadsimtā. Mēneša minimālā gaisa temperatūra -14,1°C tika novērota 2. martā Zosēnos, bet maksimālā gaisa temperatūra +14,4°C - 30. martā Bauskā un Rīgā. Kopumā martā tika pārspēti 3 diennakts maksimālās gaisa temperatūras rekordi.
-Kopējais nokrišņu daudzums Latvijā martā bija 49,2 mm, kas ir 24% virs mēneša normas (39,9 mm), kļūstot par 3.</description>
+
+Kopējais nokrišņu daudzums Latvijā martā bija 49,2 mm, kas ir 24% virs mēneša normas (39,9 mm), kļūstot par 3.</description>
     </item>
     
     <item>
@@ -977,7 +1042,9 @@ Kopējais nokrišņu daudzums martā Latvijā bija 38.</description>
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2020/marts/</guid>
       <description>Marts, 2020 Marta mēneša apskats Marta vidējā gaisa temperatūra Latvijā bija +2,9°C, kas ir 3,1°C virs mēneša normas, kļūstot par 6. siltāko martu novērojumu vēsturē (kopš 1924. gada). Mēneša minimālā gaisa temperatūra -10,3°C 23. martā tika novērota Daugavpilī un Zosēnos, bet maksimālā gaisa temperatūra +16,3°C – 28. martā Daugavpilī. Kopumā martā tika uzstādīti 14 diennakts maksimālās gaisa temperatūras rekordi. Savukārt atkārtots tika viens diennakts maksimālās gaisa temperatūras rekords.
-Kopējais nokrišņu daudzums Latvijā martā bija 50 mm, kas ir 25% virs mēneša normas (39,9 mm).</description>
+
+
+Kopējais nokrišņu daudzums Latvijā martā bija 50 mm, kas ir 25% virs mēneša normas (39,9 mm).</description>
     </item>
     
     <item>
@@ -1023,7 +1090,21 @@ Kopējais nokrišņu daudzums vidēji Latvijā bija 21.4 mm, kas ir 62 % no ilgg
       <pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate>
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2016/februaris/</guid>
-      <description>Laika apstākļu raksturojums 2016. gada februārī Aizvadītais februāris bijis silts un nokrišņiem bagāts Februāra 3. dekādes apskats Februāra 2. dekādes apskats Februāra 1. dekādes apskats </description>
+      <description>Laika apstākļu raksturojums 2016. gada februārī Aizvadītais februāris bijis silts un nokrišņiem bagāts 
+
+
+
+Februāra 3. dekādes apskats 
+
+
+Februāra 2. dekādes apskats 
+
+
+Februāra 1. dekādes apskats 
+
+
+
+</description>
     </item>
     
     <item>
@@ -1033,7 +1114,8 @@ Kopējais nokrišņu daudzums vidēji Latvijā bija 21.4 mm, kas ir 62 % no ilgg
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2017/februaris/</guid>
       <description>Laika apstākļu raksturojums 2017. gada februārī Februāra mēneša apskats 2017. gada februārī vidējā gaisa temperatūra Latvijā bija -2,3°C, kas ir 1,4°C virs mēneša normas. Mēneša maksimālā gaisa temperatūra +8,8°C 28. februārī tika novērota Pāvilostā, bet minimālā gaisa temperatūra -22,4°C – 8. februārī Zosēnos. Kopumā februārī tika pārspēti 1 dekādes un 14 diennakts, kā arī atkārtoti 2 maksimālās gaisa temperatūras rekordi.
-Kopējais nokrišņu daudzums Latvijā februārī bija 33,8 mm, kas ir 7% zem mēneša normas (36,5 mm).</description>
+
+Kopējais nokrišņu daudzums Latvijā februārī bija 33,8 mm, kas ir 7% zem mēneša normas (36,5 mm).</description>
     </item>
     
     <item>
@@ -1043,7 +1125,8 @@ Kopējais nokrišņu daudzums vidēji Latvijā bija 21.4 mm, kas ir 62 % no ilgg
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2018/februaris/</guid>
       <description>Februāris, 2018 Februāra mēneša apskats Februāra vidējā gaisa temperatūra Latvijā bija -6,9°C, kas ir 3,2°C zem mēneša normas. Mēneša maksimālā gaisa temperatūra +4,3°C 1. februārī tika novērota Liepājā, bet minimālā gaisa temperatūra -27,4°C – 23. februārī Daugavpilī. Februārī kopumā tika pārspēti 4 diennakts minimālās gaisa temperatūras rekordi.
-Kopējais nokrišņu daudzums Latvijā februārī bija 19,0 mm, kas ir 48% zem mēneša normas (36,8 mm); šī gada februārim kļūstot par līdz šim 3.</description>
+
+Kopējais nokrišņu daudzums Latvijā februārī bija 19,0 mm, kas ir 48% zem mēneša normas (36,8 mm); šī gada februārim kļūstot par līdz šim 3.</description>
     </item>
     
     <item>
@@ -1071,7 +1154,8 @@ Kopējais nokrišņu daudzums vidēji Latvijā bija 21.4 mm, kas ir 62 % no ilgg
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2012/janvaris/</guid>
       <description>Laika apstākļu raksturojums 2012. gada janvārī 2011.-2012. gadu ziemas pirmie divi mēneši Latvijā ir bijuši pārsvarā silti un nokrišņiem bagāti. Nokrišņu daudzums 2011. gada decembrī un 2012. gada janvārī bija gan lielāks par normu, gan lielāks par nokrišņu daudzumu pagājušās ziemas atbilstošajos mēnešos. Pēc temperatūrā kontrastainajiem pēdējo divu ziemu decembriem, abu janvāru gaisa temperatūras bija ievērojami tuvākas - gan viena otrai, gan normai (1. attēls).
-2012. gada janvāra vidējā gaisa temperatūra kopumā Latvijā bija -3,4ºC, kas ir 1,2 grādus virs ilggadīgās normas (2.</description>
+
+2012. gada janvāra vidējā gaisa temperatūra kopumā Latvijā bija -3,4ºC, kas ir 1,2 grādus virs ilggadīgās normas (2.</description>
     </item>
     
     <item>
@@ -1129,7 +1213,8 @@ Kopējais nokrišņu daudzums Latvijā janvārī bija 34,4 mm, kas ir 31% zem m�
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2018/janvaris/</guid>
       <description>Janvāris, 2018 Janvāra mēneša apskats Janvāra vidējā gaisa temperatūra Latvijā bija -1,6°C, kas ir 1,6°C virs mēneša normas. Mēneša maksimālā gaisa temperatūra +7,2°C 1. janvārī tika novērota Bauskā un Pāvilostā, bet minimālā gaisa temperatūra -14,8°C – 22. janvārī Ainažos. Janvārī kopumā tika pārspēti 11 un atkārtoti 2 diennakts maksimālās gaisa temperatūras rekordi.
-Kopējais nokrišņu daudzums Latvijā janvārī bija 52,3 mm, kas ir 3% virs mēneša normas (50,6 mm). Visvairāk nokrišņu bija Lielpečos – 80,1 mm, bet vismazāk nokrišņu - Dobelē (28,1 mm).</description>
+
+Kopējais nokrišņu daudzums Latvijā janvārī bija 52,3 mm, kas ir 3% virs mēneša normas (50,6 mm). Visvairāk nokrišņu bija Lielpečos – 80,1 mm, bet vismazāk nokrišņu - Dobelē (28,1 mm).</description>
     </item>
     
     <item>
@@ -1139,7 +1224,8 @@ Kopējais nokrišņu daudzums Latvijā janvārī bija 34,4 mm, kas ir 31% zem m�
       
       <guid>https://lvgmcklimats.github.io/laika_apstaklu_raksturojums/2019/janvaris/</guid>
       <description>Janvāris, 2019 Janvāra mēneša apskats Janvāra vidējā gaisa temperatūra Latvijā bija -4,0°C, kas ir 0,8°C zem mēneša normas, kļūstot par pirmo mēnesi, kurš ir vēsāks par normu, kopš pērnā marta. Līdz ar to 2018. gadā 9 secīgus mēnešus vidējā gaisa temperatūra bija augstāka par normu, kas ir atkārtots šādu secīgu mēnešu rekords.
-Mēneša maksimālā gaisa temperatūra +6,4°C 1. janvārī tika novērota Kolkā, Liepājā un Mērsragā, bet minimālā gaisa temperatūra -23,0°C – 22.</description>
+
+Mēneša maksimālā gaisa temperatūra +6,4°C 1. janvārī tika novērota Kolkā, Liepājā un Mērsragā, bet minimālā gaisa temperatūra -23,0°C – 22.</description>
     </item>
     
     <item>
@@ -1166,7 +1252,16 @@ Kopējais nokrišņu daudzums Latvijā janvārī bija 34,4 mm, kas ir 31% zem m�
       <pubDate>Tue, 03 Nov 2020 11:46:22 +0200</pubDate>
       
       <guid>https://lvgmcklimats.github.io/vizualie_materiali/infografiki/</guid>
-      <description>Infografiki  </description>
+      <description>Infografiki 
+
+
+
+
+
+
+
+
+ </description>
     </item>
     
   </channel>
