@@ -761,3 +761,32 @@ body {  /* for mobile safari overscroll (top-bar disappears) */
 .featherlight-loading .featherlight-inner {
   display: none;
 }
+
+/* APSKATU TABULA */
+.apskatu_tabula {
+    border-top: 2px solid #0B4787;
+    font-size: 16px;
+    line-height: 1.5;
+    color: inherit;
+    background: #fff;
+    margin-bottom: 20px;
+    opacity: 1;
+    border-spacing: 0;
+}
+.apskatu_tabula > thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+.apskatu_tabula thead tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+.apskatu_tabula th {
+    font-weight: 800;
+    color: #0B4787;
+    font-family: "FuturaDemi", sans-serif;
+    border-bottom: 2px solid #DFE3E9;
+    text-align: center;
+}
