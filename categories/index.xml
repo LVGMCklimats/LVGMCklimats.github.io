@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on klimats.meteo.lv</title>
-    <link>https://lvgmcklimats.github.io/categories/</link>
-    <description>Recent content in Categories on klimats.meteo.lv</description>
+    <title>Categories on Klimats portāls</title>
+    <link>https://klimats.meteo.lv/categories/</link>
+    <description>Recent content in Categories on Klimats portāls</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>lv</language>
     
-	<atom:link href="https://lvgmcklimats.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://klimats.meteo.lv/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

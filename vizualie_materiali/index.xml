@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>klimats.meteo.lv</title>
-    <link>https://lvgmcklimats.github.io/vizualie_materiali/</link>
-    <description>Recent content on klimats.meteo.lv</description>
+    <title>Klimats portāls</title>
+    <link>https://klimats.meteo.lv/vizualie_materiali/</link>
+    <description>Recent content on Klimats portāls</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>lv</language>
     <lastBuildDate>Wed, 16 Sep 2020 10:01:56 +0300</lastBuildDate>
     
-	<atom:link href="https://lvgmcklimats.github.io/vizualie_materiali/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://klimats.meteo.lv/vizualie_materiali/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://lvgmcklimats.github.io/vizualie_materiali/infografiki/</link>
+      <link>https://klimats.meteo.lv/vizualie_materiali/infografiki/</link>
       <pubDate>Tue, 03 Nov 2020 11:46:22 +0200</pubDate>
       
-      <guid>https://lvgmcklimats.github.io/vizualie_materiali/infografiki/</guid>
+      <guid>https://klimats.meteo.lv/vizualie_materiali/infografiki/</guid>
       <description>Infografiki  </description>
     </item>
     
