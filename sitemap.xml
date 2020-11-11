@@ -3,8 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://klimats.meteo.lv/laika_apstaklu_raksturojums/</loc>
-    <lastmod>2020-08-12T15:08:25+03:00</lastmod>
+    <loc>https://klimats.meteo.lv/klimats/</loc>
+    <lastmod>2020-11-04T14:07:16+02:00</lastmod>
   </url>
   
   <url>
@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>https://klimats.meteo.lv/vizualie_materiali/</loc>
+    <lastmod>2020-09-16T10:01:56+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2018/rudens/</loc>
     <lastmod>2020-08-12T11:57:24+03:00</lastmod>
   </url>
@@ -50,6 +55,11 @@
   <url>
     <loc>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2019/rudens/</loc>
     <lastmod>2020-08-12T11:57:24+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://klimats.meteo.lv/laika_apstaklu_raksturojums/</loc>
+    <lastmod>2020-08-12T15:08:25+03:00</lastmod>
   </url>
   
   <url>
@@ -633,11 +643,6 @@
   </url>
   
   <url>
-    <loc>https://klimats.meteo.lv/klimats/</loc>
-    <lastmod>2020-11-04T14:07:16+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://klimats.meteo.lv/klimats/latvijas_klimats/</loc>
     <lastmod>2020-11-04T14:07:00+02:00</lastmod>
   </url>
@@ -690,11 +695,6 @@
   <url>
     <loc>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2012/</loc>
     <lastmod>2020-09-23T15:39:18+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://klimats.meteo.lv/vizualie_materiali/</loc>
-    <lastmod>2020-09-16T10:01:56+03:00</lastmod>
   </url>
   
   <url>
