@@ -408,6 +408,9 @@ html {
     #body {
         margin-top: 3rem;
     }
+    #portals-title {
+        display: none;
+    }
 }
 @media only all and (max-width: 400px) { /* small mobile */
     h1 {
@@ -415,6 +418,9 @@ html {
     }
     h2 {
         font-size: 1.6rem;
+    }
+    #top-bar-title {
+        font-size: 18px !important;
     }
 }
 @media only all and (min-width: 48em) and (max-width: 59.938em) { /* tablet */
@@ -429,7 +435,7 @@ html {
     }
 }
 @media only all and (max-width: 59.938em) { /* tablet and mobile */
-
+    
 }
 @media only all and (min-width: 59.938em) { /* desktop */
     #top-bar {
@@ -549,6 +555,9 @@ div.helper-menu span.menu-item-weight {
 }
 .sidebar-hidden #overlay {
     /*DEPENDS ON TOP-BAR MIN-HEIGHT*/
+}
+body.sidebar-hidden #top-bar-title {
+    display: none;
 }
 body.sidebar-hidden #top-bar-logo {
     display: none;
@@ -815,6 +824,17 @@ body {  /* for mobile safari overscroll (top-bar disappears) */
     line-height: 81.63px;
     margin: auto;
     font-size: 30px;
+    font-family: "FuturaMedium", sans-serif;
+    font-weight: 500;
+    text-align: center;
+}
+#top-bar-title {
+    background-color: #fff;
+    color: #345052;
+    height: 47px;
+    line-height: 47px;
+    margin: auto;
+    font-size: 24px;
     font-family: "FuturaMedium", sans-serif;
     font-weight: 500;
     text-align: center;
