@@ -405,6 +405,9 @@ html {
         font-size: 2rem;
         margin: 1rem 0 0.5rem 0;
     }
+    #body {
+        margin-top: 3rem;
+    }
 }
 @media only all and (max-width: 400px) { /* small mobile */
     h1 {
@@ -426,9 +429,7 @@ html {
     }
 }
 @media only all and (max-width: 59.938em) { /* tablet and mobile */
-    #body {
-        margin-top: 3rem;
-    }
+
 }
 @media only all and (min-width: 59.938em) { /* desktop */
     #top-bar {
