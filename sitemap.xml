@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/gads/</loc>
+    <lastmod>2021-01-11T11:06:40+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://klimats.meteo.lv/klimats/</loc>
     <lastmod>2020-11-04T14:07:16+02:00</lastmod>
   </url>
@@ -608,6 +613,11 @@
   </url>
   
   <url>
+    <loc>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2021/janvaris/</loc>
+    <lastmod>2021-01-11T11:52:29+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2012/janvaris/</loc>
     <lastmod>2020-08-12T11:57:24+03:00</lastmod>
   </url>
@@ -650,6 +660,11 @@
   <url>
     <loc>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/janvaris/</loc>
     <lastmod>2020-08-12T11:57:24+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2021/</loc>
+    <lastmod>2021-01-11T11:52:01+02:00</lastmod>
   </url>
   
   <url>

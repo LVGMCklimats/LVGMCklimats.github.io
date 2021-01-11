@@ -13,6 +13,15 @@
     
     <item>
       <title></title>
+      <link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/gads/</link>
+      <pubDate>Mon, 11 Jan 2021 11:06:40 +0200</pubDate>
+      
+      <guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/gads/</guid>
+      <description>Publicēts: 11.01.2021.  Gads, 2020 Latvijā 2020. gads ar vidējo gaisa temperatūru +8,8 °C (2,4 °C virs normas) kļuva par siltāko gadu novērojumu vēsturē (kopš 1924. gada), par 0,6 °C pārspējot 2019. gada rekordu. Praktiski visā valstī gaisa temperatūra bija vairāk nekā 2 °C augstāka par normu. Līdz ar to, kopš 2015. gada trīs reizes ir pārspēts Latvijas vissiltākā gada rekords, bet starp pieciem siltākajiem gadiem ir četri no pēdējiem sešiem gadiem.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2012/gads/</link>
       <pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate>
       
@@ -1116,6 +1125,16 @@ Kopējais nokrišņu daudzums vidēji Latvijā bija 21.4 mm, kas ir 62 % no ilgg
     
     <item>
       <title></title>
+      <link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2021/janvaris/</link>
+      <pubDate>Mon, 11 Jan 2021 11:52:29 +0200</pubDate>
+      
+      <guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2021/janvaris/</guid>
+      <description>Publicēts: 11.01.2021. Informācija sagatavota, izmantojot operatīvo novērojumu informāciju.  Janvāris, 2021 Janvāra 1. dekādes apskats Janvāra 1. dekādē vidējā gaisa temperatūra Latvijā bija –1,7 °C, kas ir 1,2 °C virs dekādes normas. Dekādes minimālā gaisa temperatūra –12,0 °C tika novērota 10. janvārī Alūksnē, bet maksimālā gaisa temperatūra +3,5 °C tika novērota 10. janvārī Liepājā.
+Kopējais nokrišņu daudzums Latvijā janvāra 1. dekādē bija 8,8 mm, kas ir 47% zem dekādes normas (16,7 mm).</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2012/janvaris/</link>
       <pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate>
       
@@ -1225,7 +1244,7 @@ Kopējais nokrišņu daudzums Latvijā janvārī bija 34,4 mm, kas ir 31% zem m�
       <pubDate>Tue, 03 Nov 2020 11:46:22 +0200</pubDate>
       
       <guid>https://klimats.meteo.lv/vizualie_materiali/infografiki/</guid>
-      <description>Infografikas  </description>
+      <description>Infografikas  </description>
     </item>
     
   </channel>
