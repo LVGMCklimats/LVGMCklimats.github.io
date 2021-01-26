@@ -840,6 +840,12 @@ body {  /* for mobile safari overscroll (top-bar disappears) */
     text-align: center;
 }
 
+/*Image popup size*/
+@media only all and (max-width: 59.938em) { /* tablet and mobile */
+    .featherlight-content {
+        width: 100% !important;
+    }
+}
 /*small header*/
 #header-disclaimer {
     font-size: 12px;

@@ -1,0 +1,310 @@
+<script src="./js/jquery.min.js"></script>
+<script src="./js/titles.js"></script>
+<link rel="stylesheet" href="./css/style.css">
+<script src="./js/featherlight.min.js"></script>
+<script>
+    $(document).ready(function(){
+            $('#mySelect').prop('selectedIndex',0); 
+            $('#mySelect2').prop('selectedIndex',0); 
+            $('#mySelect3').prop('selectedIndex',0); 
+            $('#mySelect4').prop('selectedIndex',0);
+    })
+</script>
+<div>
+    <div class="content">
+        <div id="clatviewer">
+            <div style="display:none">
+                <p id="src"><p>
+                <p id="beforeintervalp"></p>
+                <p id="tresaistexts"></p>
+                <p id="pirmais">SIS/</p>
+                <p id="otrais">Monthly/</p>
+                <p id="tresais">Monthly_mean/</p>
+                <p id="ceturtais">1991</p>
+                <p id="piektais">02</p>
+                <p id="sestais">01</p>
+            </div>
+            <div id="select-container">
+                <div class="menu_div">
+                    Produkts:<br />
+                    <select id="mySelect" onchange="myFunction()" onkeyup="myFunction()">
+                        <option value="SIS/">Globālā saules radiācija piezemē</option>
+                        <option value="DNI/">Normalizēta tiešā saules radiācija piezemē</option>
+                        <option value="SID/">Tiešā saules radiācija piezemē</option>
+                    </select>
+                </div>
+                
+                <div class="menu_div">
+                    Laika periods:<br />
+                    <select id="mySelect2" onchange="myFunction2()" onkeyup="myFunction2()">
+                        <option value="Monthly/">Mēnesis</option>
+                        <option value="Seasonal/">Sezona</option>
+                        <option value="Yearly/">Gads</option>
+                    </select>
+                </div>
+                
+                <div class="menu_div">
+                    Statistika:<br />
+                    <select id="mySelect3" onchange="myFunction3()" onkeyup="myFunction3()">
+                        <option value="Monthly_mean/">Vidējais</option>
+                        <option value="Multiyear_monthly_maximum/">Ilggadīgais maksimālais</option>
+                        <option value="Multiyear_monthly_minimum/">Ilggadīgais minimālais</option>
+                        <option value="Multiyear_monthly_mean/">Ilggadīgais vidējais</option>
+                        <option value="Multiyear_monthly_std/">Standartnovirze</option>
+                        <option value="Monthly_anomaly/">Anomālija</option>
+                    </select>
+                </div>
+                
+                <div id="gaddiv" class="menu_div">
+                    Gads:<br />
+                    <select id="mySelect4" onchange="myFunction4()" onkeyup="myFunction4()">
+                        <option value="1991">1991</option>
+                        <option value="1992">1992</option>
+                        <option value="1993">1993</option>
+                        <option value="1994">1994</option>
+                        <option value="1995">1995</option>
+                        <option value="1996">1996</option>
+                        <option value="1997">1997</option>
+                        <option value="1998">1998</option>
+                        <option value="1999">1999</option>
+                        <option value="2000">2000</option>
+                        <option value="2001">2001</option>
+                        <option value="2002">2002</option>
+                        <option value="2003">2003</option>
+                        <option value="2004">2004</option>
+                        <option value="2005">2005</option>
+                        <option value="2006">2006</option>
+                        <option value="2007">2007</option>
+                        <option value="2008">2008</option>
+                        <option value="2009">2009</option>
+                        <option value="2010">2010</option>
+                        <option value="2011">2011</option>
+                        <option value="2012">2012</option>
+                        <option value="2013">2013</option>
+                        <option value="2014">2014</option>
+                    </select>
+                </div>
+                
+                <div id="sezdiv" class="menu_div" style="display:none;">
+                    Sezona:<br />
+                    <select id="mySelect5" onchange="myFunction5()" onkeyup="myFunction5()">
+                        <option value="02">Ziema</option>
+                        <option value="05">Pavasaris</option>
+                        <option value="08">Vasara</option>
+                        <option value="11">Rudens</option>
+                    </select>
+                </div>
+                
+                <div id="mendiv" class="menu_div" style="display:;">
+                    Mēnesis:<br />
+                    <select id="mySelect6" onchange="myFunction6()" onkeyup="myFunction6()">
+                        <option value="01">Janvāris</option>
+                        <option value="02">Februāris</option>
+                        <option value="03">Marts</option>
+                        <option value="04">Aprīlis</option>
+                        <option value="05">Maijs</option>
+                        <option value="06" selected>Jūnijs</option>
+                        <option value="07">Jūlijs</option>
+                        <option value="08">Augusts</option>
+                        <option value="09">Septembris</option>
+                        <option value="10">Oktobris</option>
+                        <option value="11">Novembris</option>
+                        <option value="12">Decembris</option>
+                    </select>
+                </div>
+            </div>
+            <div id="header"><h3></h3></div>
+            <img id="image" src=""></a>
+            <div id="star-footer"><p id="wsinfo" style="margin-top;0px;text-align:justify">
+            <b>*</b> Laika periodā no februāra līdz aprīlim datos iespējamas neprecizitātes, kuru iemesls ir satelītu datu apstrādes algoritmu problēmas atšķirt dažādas spilgtas virsmas - mākoņus un sniega segu vai ledu.
+            </p></div>
+        </div>
+    </div>
+</div>
+
+<script>
+function myFunction4() {
+    var x1 = document.getElementById("mySelect4").value;
+    document.getElementById("ceturtais").innerHTML = x1;
+    autocomplete();
+}
+
+function myFunction5() {
+    var x1 = document.getElementById("mySelect5").value;
+    document.getElementById("piektais").innerHTML = x1;
+    autocomplete();
+}
+
+function myFunction6() {
+    var x1 = document.getElementById("mySelect6").value;
+    document.getElementById("sestais").innerHTML = x1;
+    autocomplete();
+}
+
+function myFunction() {
+    var x1 = document.getElementById("mySelect").value;
+    document.getElementById("pirmais").innerHTML = x1;
+    autocomplete();
+}
+
+function dabonambijlaiku() {
+    var otraisselects = $('#otrais').text();
+    document.getElementById("beforeintervalp").innerHTML = otraisselects;
+}
+
+function myFunction2() {
+    dabonambijlaiku();
+    var month = $('#sestais').text();
+    var season = $('#piektais').text();
+    var whatwasbefore = $('#beforeintervalp').text();
+    var x2 = document.getElementById("mySelect2").value;
+    document.getElementById("otrais").innerHTML = x2;
+    if (whatwasbefore == 'Monthly/' && x2 == 'Seasonal/') {
+        if (month == '12' || month == '01' || month == '02') {
+            document.getElementById("piektais").innerHTML = '02';
+        }
+        if (month == '03' || month == '04' || month == '05') {
+            document.getElementById("piektais").innerHTML = '05';
+        }
+        if (month == '06' || month == '07' || month == '08') {
+            document.getElementById("piektais").innerHTML = '08';
+        }
+        if (month == '09' || month == '10' || month == '11') {
+            document.getElementById("piektais").innerHTML = '11';
+        }
+        var newseason = $('#piektais').text();
+        $("#mySelect5 option").filter("[value='" + newseason + "']").prop("selected", "selected");
+    }
+
+    if (whatwasbefore == 'Seasonal/' && x2 == 'Monthly/') {
+        if (season == '02') {
+            document.getElementById("sestais").innerHTML = '12';
+        }
+        if (season == '05') {
+            document.getElementById("sestais").innerHTML = '03';
+        }
+        if (season == '08') {
+            document.getElementById("sestais").innerHTML = '06';
+        }
+        if (season == '11') {
+            document.getElementById("sestais").innerHTML = '09';
+        }
+        var newmonth = $('#sestais').text();
+        $("#mySelect6 option").filter("[value='" + newmonth + "']").prop("selected", "selected");
+    }
+
+    if (x2 == 'Monthly/') {
+        var forthird = '<option value="Monthly_mean/">Vidējais</option><option value="Multiyear_monthly_maximum/">Ilggadīgais maksimālais</option>  <option value="Multiyear_monthly_minimum/">Ilggadīgais minimālais</option><option value="Multiyear_monthly_mean/">Ilggadīgais vidējais</option><option value="Multiyear_monthly_std/">Standartnovirze</option><option value="Monthly_anomaly/">Anomālija</option>';
+    }
+    if (x2 == 'Seasonal/') {
+        var forthird = '<option value="Seasonal_mean/">Vidējais</option><option value="Multiyear_seasonal_maximum/">Ilggadīgais maksimālais</option>  <option value="Multiyear_seasonal_minimum/">Ilggadīgais minimālais</option><option value="Multiyear_seasonal_mean/">Ilggadīgais vidējais</option><option value="Multiyear_seasonal_std/">Standartnovirze</option><option value="Seasonal_anomaly/">Anomālija</option>';
+    }
+    if (x2 == 'Yearly/') {
+        var forthird = '<option value="Yearly_mean/">Vidējais</option><option value="Multiyear_yearly_maximum/">Ilggadīgais maksimālais</option>  <option value="Multiyear_yearly_minimum/">Ilggadīgais minimālais</option><option value="Multiyear_yearly_mean/">Ilggadīgais vidējais</option><option value="Multiyear_yearly_std/">Standartnovirze</option><option value="Yearly_anomaly/">Anomālija</option>';
+    }
+    $("#mySelect3").html(forthird);
+    var year = $('#ceturtais').text();
+    if (x2 == 'Seasonal/' && year == '1991') {
+        document.getElementById("piektais").innerHTML = '05';
+        $("#mySelect5 option").filter("[value='05']").prop("selected", "selected");
+    }
+    //else{{document.getElementById("piektais").innerHTML = '02';$("#mySelect5 option").filter("[value='02']").prop("selected", "selected");}}
+    autocomplete();
+    myFunction3();
+}
+
+function myFunction3() {
+    var x2 = document.getElementById("mySelect3").value;
+    document.getElementById("tresais").innerHTML = x2;
+    var x2txt = $("#mySelect3 option[value='" + x2 + "']").text();
+    document.getElementById("tresaistexts").innerHTML = x2txt;
+
+    if (x2 !== '') {
+        var pirmaip = $('#otrais').text();
+        var tresaisp = $('#tresais').text();
+        if (
+            (pirmaip == 'Monthly/' && (tresaisp == 'Monthly_mean/' || tresaisp == 'Monthly_anomaly/')) ||
+            (pirmaip == 'Seasonal/' && (tresaisp == 'Seasonal_mean/' || tresaisp == 'Seasonal_anomaly/')) ||
+            (pirmaip == 'Yearly/' && (tresaisp == 'Yearly_mean/' || tresaisp == 'Yearly_anomaly/'))
+        ) {
+            $("#gaddiv").css("display", "");
+        } else {
+            $("#gaddiv").css("display", "none");
+        }
+        if (
+            (pirmaip == 'Seasonal/' && (tresaisp == 'Seasonal_mean/' ||
+                    tresaisp == 'Seasonal_anomaly/' || tresaisp == 'Multiyear_seasonal_std/' ||
+                    tresaisp == 'Multiyear_seasonal_minimum/' || tresaisp == 'Multiyear_seasonal_maximum/') ||
+                tresaisp == 'Multiyear_seasonal_mean/')
+        ) {
+            $("#sezdiv").css("display", "");
+        } else {
+            $("#sezdiv").css("display", "none");
+        }
+        if (
+            (pirmaip == 'Monthly/' && (
+                tresaisp == 'Monthly_mean/' ||
+                tresaisp == 'Monthly_anomaly/' ||
+                tresaisp == 'Multiyear_monthly_maximum/' ||
+                tresaisp == 'Multiyear_monthly_minimum/' ||
+                tresaisp == 'Multiyear_monthly_mean/' ||
+                tresaisp == 'Multiyear_monthly_std/'
+            )) || (pirmaip == 'Seasonal/' && tresaisp == 'Multiyear_seasonal_std')
+        ) {
+            $("#mendiv").css("display", "");
+        } else {
+            $("#mendiv").css("display", "none");
+        }
+    }
+    autocomplete();
+}
+
+function autocomplete() {
+    var pngext = '01___.png';
+    var pirmaisselects = $('#pirmais').text();
+    var otraisselects = $('#otrais').text();
+    var tresaisselects = $('#tresais').text();
+    var gadaselects = $('#ceturtais').text();
+    var sezonselects = $('#piektais').text();
+    var menselects = $('#sestais').text();
+    if (tresaisselects.indexOf("Multiyear") !== -1) {
+        var gadam = '2014';
+    } else {
+        var gadam = gadaselects;
+    }
+    if (otraisselects.indexOf("Monthly") !== -1) {
+        var menvaisez = menselects;
+    }
+    if (otraisselects.indexOf("Seasonal") !== -1) {
+        var menvaisez = sezonselects;
+    }
+    if (otraisselects.indexOf("Yearly") !== -1) {
+        var menvaisez = '12';
+    }
+    var selectanosaukums = $('#tresaistexts').text();
+    $('#mySelect3 option').filter(function() {
+        return $(this).html() == selectanosaukums;
+    }).prop("selected", "selected");
+    if (gadam == 1991 && otraisselects.indexOf("Seasonal") !== -1 && menvaisez == 02) {
+        var text = 'navpa1991.png';
+    } else {
+        var text = pirmaisselects + otraisselects + tresaisselects + gadam + menvaisez + pngext;
+    }
+    document.getElementById("src").innerHTML = text; //alert(text);
+    $('#image').unbind();
+    var srcLink = "./image_dir/" + text;
+    $('#image').attr("src", srcLink);
+    $("#image").featherlight({
+        image: srcLink,
+        root: window.parent.document.body,
+    });
+    //$('#image').attr("data-featherlight", "image");
+    fortitles();
+
+    var iframe = window.parent.document.getElementById('rad-atlants')
+    iframe.style.height = $(iframe.contentWindow.document).height() + 'px';
+}
+    myFunction6();
+    autocomplete();
+</script>
+</div>

@@ -1,0 +1,65 @@
+.content {
+    position: relative;
+    height: auto;
+    margin: auto;
+    padding: 5px;
+}
+
+.menu_div {
+    display: block;
+    margin:5px;
+    font-size:16px;	
+    font-family: sans-serif;
+}
+
+@media only all and (max-width: 400px) {  /* only mobile */
+    .content {
+        padding: 0;
+    }
+    .menu_div {
+        margin-left: 0;
+    }
+    #select-container {
+        margin-left: -5px !important;
+    }
+    #mySelect {
+        max-width: 265px;
+    }
+}
+
+.menu_div select {
+    font-size:16px;
+}
+
+#header h3 {
+    font-family: sans-serif;
+    color: #354052;
+    text-align: center;
+}
+
+select {
+    font-family: sans-serif;
+}
+
+#clatviewer {
+    max-width:1000px;
+    margin:auto;
+}
+
+#select-container {
+    margin-left: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#clatviewer #image {
+    max-width: 100%;
+    cursor: pointer;
+}
+
+#star-footer {
+    font-size:12px;
+    left: 15px;
+    font-family: sans-serif;
+    text-align:justify;
+}
