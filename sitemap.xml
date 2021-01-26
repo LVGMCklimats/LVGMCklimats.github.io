@@ -78,6 +78,11 @@
   </url>
   
   <url>
+    <loc>https://klimats.meteo.lv/atlanti/</loc>
+    <lastmod>2020-12-23T10:06:35+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/marts/</loc>
     <lastmod>2021-01-26T12:15:18+02:00</lastmod>
   </url>
@@ -1500,6 +1505,11 @@
   <url>
     <loc>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2021/</loc>
     <lastmod>2021-01-11T11:52:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://klimats.meteo.lv/atlanti/saules_radiacijas_atlants/</loc>
+    <lastmod>2020-12-23T10:07:14+02:00</lastmod>
   </url>
   
   <url>
