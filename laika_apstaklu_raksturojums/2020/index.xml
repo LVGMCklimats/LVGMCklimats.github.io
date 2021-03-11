@@ -1,180 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Klimata portāls</title>
-    <link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/</link>
-    <description>Recent content on Klimata portāls</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>lv</language>
-    <lastBuildDate>Wed, 23 Sep 2020 15:40:16 +0300</lastBuildDate>
-    
-	<atom:link href="https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/gads/</link>
-      <pubDate>Mon, 11 Jan 2021 11:06:40 +0200</pubDate>
-      
-      <guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/gads/</guid>
-      <description>Publicēts: 11.01.2021.  Gads, 2020 Latvijā 2020. gads ar vidējo gaisa temperatūru +8,8 °C (2,4 °C virs normas) kļuva par siltāko gadu novērojumu vēsturē (kopš 1924. gada), par 0,6 °C pārspējot 2019. gada rekordu. Praktiski visā valstī gaisa temperatūra bija vairāk nekā 2 °C augstāka par normu. Līdz ar to trīs siltākie gadi novērojumu vēsturē Latvijā ir bijuši kopš 2015. gada.
-Kopējais nokrišņu daudzums Latvijā 2020. gadā bija 641,5 mm, kas ir 7 % mazāk nekā gada norma (692,3 mm).</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/rudens/</link>
-      <pubDate>Wed, 02 Dec 2020 13:22:02 +0200</pubDate>
-      
-      <guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/rudens/</guid>
-      <description>Publicēts: 02.12.2020. Informācija sagatavota, izmantojot operatīvo novērojumu informāciju.  Rudens, 2020 Rudens vidējā gaisa temperatūra Latvijā bija +9,9 °C, kas ir 3,2 °C virs normas, kļūstot par vissiltāko rudeni novērojumu vēsturē (kopš 1924. gada), par 0,2 °C pārspējot 1934. gada rudeni.
-Gaisa temperatūras amplitūda rudenī bija 31,3 °C - gadalaika maksimālā gaisa temperatūra +27,4 °C tika novērota 16. septembrī Bauskā, bet minimālā gaisa temperatūra -3,9 °C 9. novembrī Madonā. Kopumā rudens sezonā tika pārspēti 134 diennakts maksimālās gaisa temperatūras rekordi, starp kuriem bija arī atkārtots Latvijas 18.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/vasara/</link>
-      <pubDate>Wed, 11 Nov 2020 15:08:32 +0200</pubDate>
-      
-      <guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/vasara/</guid>
-      <description>Vasara, 2020 Vasaras apskats Šī gada vasara bija mēreni silta – vidējā gaisa temperatūra Latvijā bija +17,2 °C, kas ir 1,0 °C virs vasaras normas. Tādējādi šī gada vasara kopā ar pērno, 1959. un 1937. gada vasaru ir 12. siltākā. Vasaras zemākā gaisa temperatūra +1,0 °C tika novērota Zosēnos 2. jūnijā, pirmo reizi kopš 2014. gada vasaras minimālajai gaisa temperatūrai nepazeminoties zem 1 °C. Savukārt augstākā gaisa temperatūra bija +31,4 °C, kas 18.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/pavasaris/</link>
-      <pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate>
-      
-      <guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/pavasaris/</guid>
-      <description>Pavasaris, 2020 Pavasara apskats Pavasara vidējā gaisa temperatūra Latvijā bija +6,0°C, kas ir 0,4° virs sezonas normas, un šis bija 20. siltākais pavasaris novērojumu vēsturē (kopš 1924. gada). Pavasara sākums līdzīgi kā aizgājusī ziema bija siltāks par normu, marta pēdējai dekādei esot pirmajai kopš novembra beigām, kas bija vēsāka par normu, bet martam ar vidējo gaisa temperatūru +2,9°C (3,1° virs normas) kļūstot par 6. siltāko novērojumu vēsturē (kopš 1924. gada). Tomēr marts bija vienīgais pavasara mēnesis, kas bija siltāks par normu.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/ziema/</link>
-      <pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate>
-      
-      <guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/ziema/</guid>
-      <description>Ziema, 2020 Ziemas apskats Aizvadītajā kalendārajā ziemā (decembris-februāris) Latvijā vidējā gaisa temperatūra bija +2,7 °C (5,7 °C virs sezonas normas), tādējādi 2019./2020. gada ziemai kļūstot par siltāko novērojumu vēsturē, par 1,7 grādiem pārspējot 1924./1925. gada ziemas rekordu. Arī visi ziemas mēneši bija starp trīs siltākajiem mēnešiem vēsturē. Decembris (vidējā gaisa temperatūra +2,7 °C) bija 3. siltākais, februāris (+2,2 °C) bija 2. siltākais, bet janvāris ar vidējo gaisa temperatūru +3,1 °C bija siltākais janvāra mēnesis novērojumu vēsturē.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/decembris/</link>
-      <pubDate>Mon, 04 Jan 2021 09:00:00 +0200</pubDate>
-      
-      <guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/decembris/</guid>
-      <description>Publicēts: 04.01.2021. Informācija sagatavota, izmantojot operatīvo novērojumu informāciju.  Decembris, 2020 Decembra apskats Decembra vidējā gaisa temperatūra Latvijā bija +0,4 °C, kas ir 2,4 °C virs mēneša normas. Mēneša minimālā gaisa temperatūra –8,9 °C tika novērota 9. decembrī Madonā, bet maksimālā gaisa temperatūra +8,7 °C tika novērota 5. decembrī Rucavā.
-Kopējais nokrišņu daudzums Latvijā decembrī bija 31,2 mm, kas ir 44% zem mēneša normas (55,4 mm). Visvairāk nokrišņu (55,2 mm) bija Rucavā, bet vismazāk Daugavpilī - 18,2 mm.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/novembris/</link>
-      <pubDate>Wed, 11 Nov 2020 13:14:18 +0200</pubDate>
-      
-      <guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/novembris/</guid>
-      <description>Publicēts: 01.12.2020. Informācija sagatavota, izmantojot operatīvo novērojumu informāciju.  Novembris, 2020 Novembra apskats Novembra vidējā gaisa temperatūra Latvijā bija +5,5 °C, kas ir 3,9 °C virs mēneša normas, kļūstot par siltāko novembri novērojumu vēsturē (kopš 1924. gada), par 0,2°C pārspējot 1928. gada novembri. Mēneša minimālā gaisa temperatūra –3,9 °C tika novērota 9. novembrī Madonā, bet maksimālā gaisa temperatūra +15,1 °C tika novērota 3. novembrī Ventspilī, kas ir atkārtots Ventspils novembra maksimālās gaisa tempereratūras rekords.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/oktobris/</link>
-      <pubDate>Tue, 10 Nov 2020 10:54:20 +0200</pubDate>
-      
-      <guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/oktobris/</guid>
-      <description>Oktobris, 2020 Oktobra vidējā gaisa temperatūra Latvijā bija +9,8 °C, kas ir 2,9°C virs mēneša normas. Mēneša maksimālā gaisa temperatūra +22,4 °C novērota 4. oktobrī Rucavā, bet minimālā gaisa temperatūra -1,6 °C – 17. oktobrī Pāvilostā.
-Oktobrī tika pārspēti 14 diennakts maksimālās gaisa temperatūras rekordi. Atkārtots tika viens diennakts maksimālās gaisa temperatūras rekords.
-Kopējais nokrišņu daudzums Latvijā oktobrī bija 72,7 mm, kas ir tikai par 0,3 mm zem normas (73,0 mm).</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/septembris/</link>
-      <pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate>
-      
-      <guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/septembris/</guid>
-      <description>Septembris, 2020 Septembra apskats Septembra vidējā gaisa temperatūra Latvijā bija +14,4°C, kas ir 2,7°C virs mēneša normas. Mēneša maksimālā gaisa temperatūra +27,4°C novērota 16. septembrī Bauskā, bet minimālā gaisa temperatūra -0,2°C – 20. septembrī Stendē.
-Septembrī tika pārspēti 66 diennakts maksimālās gaisa temperatūras rekordi, tajā skaitā arī Liepājas septembra 3. dekādes maksimālās gaisa temperatūras rekords. Atkārtoti tika četri diennakts maksimālās gaisa temperatūras rekordi.
-Kopējais nokrišņu daudzums Latvijā septembrī bija 49,8 mm, kas ir 25% zem mēneša normas (66,1 mm).</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/augusts/</link>
-      <pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate>
-      
-      <guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/augusts/</guid>
-      <description>Augusts, 2020 Augusta mēneša apskats Augusta vidējā gaisa temperatūra Latvijā bija +17,2°C, kas ir 0,7°C virs mēneša normas. Mēneša maksimālā gaisa temperatūra +30,3°C novērota 16. augustā Dobelē, bet minimālā gaisa temperatūra +3,9°C – 29. augustā Zosēnos.
-Augustā tika pārspēti 4 diennakts minimālās gaisa temperatūras rekordi un viens diennakts maksimālās gaisa temperatūras rekords, bet atkārtoti tika divi diennakts minimālās gaisa temperatūras rekordi.
-Kopējais nokrišņu daudzums Latvijā augustā bija 45,9 mm, kas ir 40% zem mēneša normas (76,7 mm).</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/julijs/</link>
-      <pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate>
-      
-      <guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/julijs/</guid>
-      <description>Jūlijs, 2020 Jūlija mēneša apskats Jūlija vidējā gaisa temperatūra Latvijā bija +16,4°C, kas ir 1,0°C zem mēneša normas.
-Mēneša maksimālā gaisa temperatūra +29,6°C novērota 20. jūlijā Ventspilī, kas ir jauns 20. jūlija maksimālās gaisa temperatūras rekords Ventspilī, pārspējot rekordu, kas tika uzstādīts 1914. gadā. Bet minimālā gaisa temperatūra +5,2°C novērota 26. jūlijā Madonā un Zosēnos, kas ir jauns Madonas 26. jūlija minimālās gaisa temperatūras rekords.
-Kopumā jūlijā tika pārspēti 5 diennakts minimālās un 1 diennakts maksimālās gaisa temperatūras rekordi, bet atkārtoti tika 2 diennakts maksimālās gaisa temperatūras rekordi.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/junijs/</link>
-      <pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate>
-      
-      <guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/junijs/</guid>
-      <description>Jūnijs, 2020 Jūnija mēneša apskats Jūnija vidējā gaisa temperatūra Latvijā bija +18,1°C, kas ir 3,3°C virs mēneša normas. Šis ir otrais jūnijs pēc kārtas, kura vidējā gaisa temperatūra Latvijā ir augstāka par +18°C, un kopā ar 1999. gada jūniju šī gada jūnijs ir 2. siltākais novērojumu vēsturē (kopš 1924. gada), atpaliekot vien no pērnā jūnija, kad vidējā gaisa temperatūra Latvijā bija +18,6°C. Mēneša minimālā gaisa temperatūra +1,0°C tika novērota 2. jūnijā Zosēnos, bet maksimālā gaisa temperatūra +31,4°C - 18.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/maijs/</link>
-      <pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate>
-      
-      <guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/maijs/</guid>
-      <description>Maijs, 2020 Maija mēneša apskats Maija vidējā gaisa temperatūra Latvijā bija +9,5°C, kas ir 1,9°C zem mēneša normas. Līdz ar to šī gada maijs bija pirmais kopš 1999. gada, kura vidējā gaisa temperatūra bija zem +10°C. Mēneša maksimālā gaisa temperatūra +22,0°C tika novērota 26. maijā Skrīveros un 27. maijā Jelgavā, bet minimālā gaisa temperatūra -2,6°C – 8. maijā Stendē. Kopumā maijā tika pārspēti 5 un atkārtots 1 diennakts minimālās gaisa temperatūras rekords.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/aprilis/</link>
-      <pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate>
-      
-      <guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/aprilis/</guid>
-      <description>Aprīlis, 2020 Aprīļa mēneša apskats Aprīļa vidējā gaisa temperatūra Latvijā bija +5,6°C, kas ir 0,1°C zem mēneša normas. Tādējādi aprīlis bija pirmais mēnesis kopš pērnā jūlija, kas bija vēsāks par normu. Mēneša minimālā gaisa temperatūra -4,9°C 11. aprīlī tika novērota Rucavā, bet maksimālā gaisa temperatūra +20,8°C – 7. aprīlī Rīgā. Kopumā aprīlī tika pārspēti 16 diennakts maksimālās gaisa temperatūras rekordi, bet atkārtots viens diennakts maksimālās gaisa temperatūras rekords. Visi rekordi tika pārspēti aprīļa 1.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/marts/</link>
-      <pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate>
-      
-      <guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/marts/</guid>
-      <description>Marts, 2020 Marta mēneša apskats Marta vidējā gaisa temperatūra Latvijā bija +2,9°C, kas ir 3,1°C virs mēneša normas, kļūstot par 6. siltāko martu novērojumu vēsturē (kopš 1924. gada). Mēneša minimālā gaisa temperatūra -10,3°C 23. martā tika novērota Daugavpilī un Zosēnos, bet maksimālā gaisa temperatūra +16,3°C – 28. martā Daugavpilī. Kopumā martā tika uzstādīti 14 diennakts maksimālās gaisa temperatūras rekordi. Savukārt atkārtots tika viens diennakts maksimālās gaisa temperatūras rekords.
-Kopējais nokrišņu daudzums Latvijā martā bija 50 mm, kas ir 25% virs mēneša normas (39,9 mm).</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/februaris/</link>
-      <pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate>
-      
-      <guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/februaris/</guid>
-      <description>Februāris, 2020 Februāra mēneša apskats Februāra vidējā gaisa temperatūra Latvijā bija +2,2°C, kas ir 5,9°C virs mēneša normas, kļūstot par 2. siltāko februāri novērojumu vēsturē (kopš 1924. gada), atpaliekot vien no 1990. gada februāra, kad mēneša vidējā gaisa temperatūra Latvijā bija +3,4°C. Mēneša minimālā gaisa temperatūra -9,6°C 5. februārī tika novērota Daugavpilī, bet maksimālā gaisa temperatūra +12,4°C – 17. februārī Dobelē, kas arī ir jauns Latvijas 17. februāra maksimālās gaisa temperatūras rekords.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/janvaris/</link>
-      <pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate>
-      
-      <guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/janvaris/</guid>
-      <description>Janvāris, 2020 Janvāra mēneša apskats Janvāra vidējā gaisa temperatūra Latvijā bija +3,1°C, kas ir 6,3°C virs mēneša normas. 2020. gada janvāris ir kļuvis par siltāko janvāri novērojumu vēsturē par +1,3°C pārspējot 1989. gada janvāri. Mēneša minimālā gaisa temperatūra -5,9°C 5. janvārī tika novērota Jelgavā, bet maksimālā +10,3°C 15. janvārī Mērsragā, kas arī ir jauns Latvijas 2. dekādes maksimālās gaisa temperatūras rekords. Kopumā janvārī tika pārspēti 93 maksimālās gaisa temperatūras rekordi, starp kuriem bija 10 novērojumu staciju dekādes maksimālās gaisa temperatūras rekordi un viens mēneša rekords.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Klimata portāls</title><link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/</link><description>Recent content on Klimata portāls</description><generator>Hugo -- gohugo.io</generator><language>lv</language><lastBuildDate>Wed, 23 Sep 2020 15:40:16 +0300</lastBuildDate><atom:link href="https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/gads/</link><pubDate>Mon, 11 Jan 2021 11:06:40 +0200</pubDate><guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/gads/</guid><description>Publicēts: 11.01.2021. Gads, 2020 Latvijā 2020. gads ar vidējo gaisa temperatūru +8,8 °C (2,4 °C virs normas) kļuva par siltāko gadu novērojumu vēsturē (kopš 1924. gada), par 0,6 °C pārspējot 2019. gada rekordu. Praktiski visā valstī gaisa temperatūra bija vairāk nekā 2 °C augstāka par normu. Līdz ar to trīs siltākie gadi novērojumu vēsturē Latvijā ir bijuši kopš 2015. gada.
+Kopējais nokrišņu daudzums Latvijā 2020. gadā bija 641,5 mm, kas ir 7 % mazāk nekā gada norma (692,3 mm).</description></item><item><title/><link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/rudens/</link><pubDate>Wed, 02 Dec 2020 13:22:02 +0200</pubDate><guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/rudens/</guid><description>Publicēts: 02.12.2020. Informācija sagatavota, izmantojot operatīvo novērojumu informāciju. Rudens, 2020 Rudens vidējā gaisa temperatūra Latvijā bija +9,9 °C, kas ir 3,2 °C virs normas, kļūstot par vissiltāko rudeni novērojumu vēsturē (kopš 1924. gada), par 0,2 °C pārspējot 1934. gada rudeni.
+Gaisa temperatūras amplitūda rudenī bija 31,3 °C - gadalaika maksimālā gaisa temperatūra +27,4 °C tika novērota 16. septembrī Bauskā, bet minimālā gaisa temperatūra -3,9 °C 9. novembrī Madonā. Kopumā rudens sezonā tika pārspēti 134 diennakts maksimālās gaisa temperatūras rekordi, starp kuriem bija arī atkārtots Latvijas 18.</description></item><item><title/><link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/vasara/</link><pubDate>Wed, 11 Nov 2020 15:08:32 +0200</pubDate><guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/vasara/</guid><description>Vasara, 2020 Vasaras apskats Šī gada vasara bija mēreni silta – vidējā gaisa temperatūra Latvijā bija +17,2 °C, kas ir 1,0 °C virs vasaras normas. Tādējādi šī gada vasara kopā ar pērno, 1959. un 1937. gada vasaru ir 12. siltākā. Vasaras zemākā gaisa temperatūra +1,0 °C tika novērota Zosēnos 2. jūnijā, pirmo reizi kopš 2014. gada vasaras minimālajai gaisa temperatūrai nepazeminoties zem 1 °C. Savukārt augstākā gaisa temperatūra bija +31,4 °C, kas 18.</description></item><item><title/><link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/pavasaris/</link><pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate><guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/pavasaris/</guid><description>Pavasaris, 2020 Pavasara apskats Pavasara vidējā gaisa temperatūra Latvijā bija +6,0°C, kas ir 0,4° virs sezonas normas, un šis bija 20. siltākais pavasaris novērojumu vēsturē (kopš 1924. gada). Pavasara sākums līdzīgi kā aizgājusī ziema bija siltāks par normu, marta pēdējai dekādei esot pirmajai kopš novembra beigām, kas bija vēsāka par normu, bet martam ar vidējo gaisa temperatūru +2,9°C (3,1° virs normas) kļūstot par 6. siltāko novērojumu vēsturē (kopš 1924. gada). Tomēr marts bija vienīgais pavasara mēnesis, kas bija siltāks par normu.</description></item><item><title/><link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/ziema/</link><pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate><guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/ziema/</guid><description>Ziema, 2020 Ziemas apskats Aizvadītajā kalendārajā ziemā (decembris-februāris) Latvijā vidējā gaisa temperatūra bija +2,7 °C (5,7 °C virs sezonas normas), tādējādi 2019./2020. gada ziemai kļūstot par siltāko novērojumu vēsturē, par 1,7 grādiem pārspējot 1924./1925. gada ziemas rekordu. Arī visi ziemas mēneši bija starp trīs siltākajiem mēnešiem vēsturē. Decembris (vidējā gaisa temperatūra +2,7 °C) bija 3. siltākais, februāris (+2,2 °C) bija 2. siltākais, bet janvāris ar vidējo gaisa temperatūru +3,1 °C bija siltākais janvāra mēnesis novērojumu vēsturē.</description></item><item><title/><link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/decembris/</link><pubDate>Mon, 04 Jan 2021 09:00:00 +0200</pubDate><guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/decembris/</guid><description>Publicēts: 04.01.2021. Informācija sagatavota, izmantojot operatīvo novērojumu informāciju. Decembris, 2020 Decembra apskats Decembra vidējā gaisa temperatūra Latvijā bija +0,4 °C, kas ir 2,4 °C virs mēneša normas. Mēneša minimālā gaisa temperatūra –8,9 °C tika novērota 9. decembrī Madonā, bet maksimālā gaisa temperatūra +8,7 °C tika novērota 5. decembrī Rucavā.
+Kopējais nokrišņu daudzums Latvijā decembrī bija 31,2 mm, kas ir 44% zem mēneša normas (55,4 mm). Visvairāk nokrišņu (55,2 mm) bija Rucavā, bet vismazāk Daugavpilī - 18,2 mm.</description></item><item><title/><link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/novembris/</link><pubDate>Wed, 11 Nov 2020 13:14:18 +0200</pubDate><guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/novembris/</guid><description>Publicēts: 01.12.2020. Informācija sagatavota, izmantojot operatīvo novērojumu informāciju. Novembris, 2020 Novembra apskats Novembra vidējā gaisa temperatūra Latvijā bija +5,5 °C, kas ir 3,9 °C virs mēneša normas, kļūstot par siltāko novembri novērojumu vēsturē (kopš 1924. gada), par 0,2°C pārspējot 1928. gada novembri. Mēneša minimālā gaisa temperatūra –3,9 °C tika novērota 9. novembrī Madonā, bet maksimālā gaisa temperatūra +15,1 °C tika novērota 3. novembrī Ventspilī, kas ir atkārtots Ventspils novembra maksimālās gaisa tempereratūras rekords.</description></item><item><title/><link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/oktobris/</link><pubDate>Tue, 10 Nov 2020 10:54:20 +0200</pubDate><guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/oktobris/</guid><description>Oktobris, 2020 Oktobra vidējā gaisa temperatūra Latvijā bija +9,8 °C, kas ir 2,9°C virs mēneša normas. Mēneša maksimālā gaisa temperatūra +22,4 °C novērota 4. oktobrī Rucavā, bet minimālā gaisa temperatūra -1,6 °C – 17. oktobrī Pāvilostā.
+Oktobrī tika pārspēti 14 diennakts maksimālās gaisa temperatūras rekordi. Atkārtots tika viens diennakts maksimālās gaisa temperatūras rekords.
+Kopējais nokrišņu daudzums Latvijā oktobrī bija 72,7 mm, kas ir tikai par 0,3 mm zem normas (73,0 mm).</description></item><item><title/><link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/septembris/</link><pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate><guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/septembris/</guid><description>Septembris, 2020 Septembra apskats Septembra vidējā gaisa temperatūra Latvijā bija +14,4°C, kas ir 2,7°C virs mēneša normas. Mēneša maksimālā gaisa temperatūra +27,4°C novērota 16. septembrī Bauskā, bet minimālā gaisa temperatūra -0,2°C – 20. septembrī Stendē.
+Septembrī tika pārspēti 66 diennakts maksimālās gaisa temperatūras rekordi, tajā skaitā arī Liepājas septembra 3. dekādes maksimālās gaisa temperatūras rekords. Atkārtoti tika četri diennakts maksimālās gaisa temperatūras rekordi.
+Kopējais nokrišņu daudzums Latvijā septembrī bija 49,8 mm, kas ir 25% zem mēneša normas (66,1 mm).</description></item><item><title/><link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/augusts/</link><pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate><guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/augusts/</guid><description>Augusts, 2020 Augusta mēneša apskats Augusta vidējā gaisa temperatūra Latvijā bija +17,2°C, kas ir 0,7°C virs mēneša normas. Mēneša maksimālā gaisa temperatūra +30,3°C novērota 16. augustā Dobelē, bet minimālā gaisa temperatūra +3,9°C – 29. augustā Zosēnos.
+Augustā tika pārspēti 4 diennakts minimālās gaisa temperatūras rekordi un viens diennakts maksimālās gaisa temperatūras rekords, bet atkārtoti tika divi diennakts minimālās gaisa temperatūras rekordi.
+Kopējais nokrišņu daudzums Latvijā augustā bija 45,9 mm, kas ir 40% zem mēneša normas (76,7 mm).</description></item><item><title/><link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/julijs/</link><pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate><guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/julijs/</guid><description>Jūlijs, 2020 Jūlija mēneša apskats Jūlija vidējā gaisa temperatūra Latvijā bija +16,4°C, kas ir 1,0°C zem mēneša normas.
+Mēneša maksimālā gaisa temperatūra +29,6°C novērota 20. jūlijā Ventspilī, kas ir jauns 20. jūlija maksimālās gaisa temperatūras rekords Ventspilī, pārspējot rekordu, kas tika uzstādīts 1914. gadā. Bet minimālā gaisa temperatūra +5,2°C novērota 26. jūlijā Madonā un Zosēnos, kas ir jauns Madonas 26. jūlija minimālās gaisa temperatūras rekords.
+Kopumā jūlijā tika pārspēti 5 diennakts minimālās un 1 diennakts maksimālās gaisa temperatūras rekordi, bet atkārtoti tika 2 diennakts maksimālās gaisa temperatūras rekordi.</description></item><item><title/><link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/junijs/</link><pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate><guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/junijs/</guid><description>Jūnijs, 2020 Jūnija mēneša apskats Jūnija vidējā gaisa temperatūra Latvijā bija +18,1°C, kas ir 3,3°C virs mēneša normas. Šis ir otrais jūnijs pēc kārtas, kura vidējā gaisa temperatūra Latvijā ir augstāka par +18°C, un kopā ar 1999. gada jūniju šī gada jūnijs ir 2. siltākais novērojumu vēsturē (kopš 1924. gada), atpaliekot vien no pērnā jūnija, kad vidējā gaisa temperatūra Latvijā bija +18,6°C. Mēneša minimālā gaisa temperatūra +1,0°C tika novērota 2. jūnijā Zosēnos, bet maksimālā gaisa temperatūra +31,4°C - 18.</description></item><item><title/><link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/maijs/</link><pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate><guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/maijs/</guid><description>Maijs, 2020 Maija mēneša apskats Maija vidējā gaisa temperatūra Latvijā bija +9,5°C, kas ir 1,9°C zem mēneša normas. Līdz ar to šī gada maijs bija pirmais kopš 1999. gada, kura vidējā gaisa temperatūra bija zem +10°C. Mēneša maksimālā gaisa temperatūra +22,0°C tika novērota 26. maijā Skrīveros un 27. maijā Jelgavā, bet minimālā gaisa temperatūra -2,6°C – 8. maijā Stendē. Kopumā maijā tika pārspēti 5 un atkārtots 1 diennakts minimālās gaisa temperatūras rekords.</description></item><item><title/><link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/aprilis/</link><pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate><guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/aprilis/</guid><description>Aprīlis, 2020 Aprīļa mēneša apskats Aprīļa vidējā gaisa temperatūra Latvijā bija +5,6°C, kas ir 0,1°C zem mēneša normas. Tādējādi aprīlis bija pirmais mēnesis kopš pērnā jūlija, kas bija vēsāks par normu. Mēneša minimālā gaisa temperatūra -4,9°C 11. aprīlī tika novērota Rucavā, bet maksimālā gaisa temperatūra +20,8°C – 7. aprīlī Rīgā. Kopumā aprīlī tika pārspēti 16 diennakts maksimālās gaisa temperatūras rekordi, bet atkārtots viens diennakts maksimālās gaisa temperatūras rekords. Visi rekordi tika pārspēti aprīļa 1.</description></item><item><title/><link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/marts/</link><pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate><guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/marts/</guid><description>Marts, 2020 Marta mēneša apskats Marta vidējā gaisa temperatūra Latvijā bija +2,9°C, kas ir 3,1°C virs mēneša normas, kļūstot par 6. siltāko martu novērojumu vēsturē (kopš 1924. gada). Mēneša minimālā gaisa temperatūra -10,3°C 23. martā tika novērota Daugavpilī un Zosēnos, bet maksimālā gaisa temperatūra +16,3°C – 28. martā Daugavpilī. Kopumā martā tika uzstādīti 14 diennakts maksimālās gaisa temperatūras rekordi. Savukārt atkārtots tika viens diennakts maksimālās gaisa temperatūras rekords.
+Kopējais nokrišņu daudzums Latvijā martā bija 50 mm, kas ir 25% virs mēneša normas (39,9 mm).</description></item><item><title/><link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/februaris/</link><pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate><guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/februaris/</guid><description>Februāris, 2020 Februāra mēneša apskats Februāra vidējā gaisa temperatūra Latvijā bija +2,2°C, kas ir 5,9°C virs mēneša normas, kļūstot par 2. siltāko februāri novērojumu vēsturē (kopš 1924. gada), atpaliekot vien no 1990. gada februāra, kad mēneša vidējā gaisa temperatūra Latvijā bija +3,4°C. Mēneša minimālā gaisa temperatūra -9,6°C 5. februārī tika novērota Daugavpilī, bet maksimālā gaisa temperatūra +12,4°C – 17. februārī Dobelē, kas arī ir jauns Latvijas 17. februāra maksimālās gaisa temperatūras rekords.</description></item><item><title/><link>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/janvaris/</link><pubDate>Wed, 12 Aug 2020 11:57:24 +0300</pubDate><guid>https://klimats.meteo.lv/laika_apstaklu_raksturojums/2020/janvaris/</guid><description>Janvāris, 2020 Janvāra mēneša apskats Janvāra vidējā gaisa temperatūra Latvijā bija +3,1°C, kas ir 6,3°C virs mēneša normas. 2020. gada janvāris ir kļuvis par siltāko janvāri novērojumu vēsturē par +1,3°C pārspējot 1989. gada janvāri. Mēneša minimālā gaisa temperatūra -5,9°C 5. janvārī tika novērota Jelgavā, bet maksimālā +10,3°C 15. janvārī Mērsragā, kas arī ir jauns Latvijas 2. dekādes maksimālās gaisa temperatūras rekords. Kopumā janvārī tika pārspēti 93 maksimālās gaisa temperatūras rekordi, starp kuriem bija 10 novērojumu staciju dekādes maksimālās gaisa temperatūras rekordi un viens mēneša rekords.</description></item></channel></rss>

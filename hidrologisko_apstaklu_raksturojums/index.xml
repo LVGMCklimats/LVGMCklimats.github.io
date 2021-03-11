@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Klimata portāls</title>
-    <link>https://klimats.meteo.lv/hidrologisko_apstaklu_raksturojums/</link>
-    <description>Recent content on Klimata portāls</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>lv</language>
-    <lastBuildDate>Tue, 15 Dec 2020 09:43:43 +0200</lastBuildDate>
-    
-	<atom:link href="https://klimats.meteo.lv/hidrologisko_apstaklu_raksturojums/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Klimata portāls</title><link>https://klimats.meteo.lv/hidrologisko_apstaklu_raksturojums/</link><description>Recent content on Klimata portāls</description><generator>Hugo -- gohugo.io</generator><language>lv</language><lastBuildDate>Tue, 15 Dec 2020 09:43:43 +0200</lastBuildDate><atom:link href="https://klimats.meteo.lv/hidrologisko_apstaklu_raksturojums/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
