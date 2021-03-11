@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="EN">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Expires" content="-1" />
+	
+	<link rel="stylesheet" href="./css/style.css">
+	<link rel="stylesheet" href="./css/style.css">
+  </head>
+
+  <body>
+    <noscript>
+      <p class="contentMiddleText" style="color: red">
+        Javascript is switched off in your browser. In order to display this
+        page correctly javascript is required.
+      </p>
+    </noscript>
+    <div id="clatviewer">
+      <!-- Setting the min-height for the image stops the height of the viewer changing if some images aren't as high as others-->
+      <div id="clatInfo">&nbsp;</div>
+      <div id="clatimage1">&nbsp;</div>
+      <!-- Add a white filler layer to cover the hidden image in case it is larger than the current image. Not necessary if all images are the same size -->
+      <div id="clatfiller">&nbsp;</div>
+      <div id="clatimage2">&nbsp;</div>
+      <div id="multiSelect"></div>
+    </div>
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="js/jquery.min.js"
+    ></script>
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="js/js_multiSelect.js"
+    ></script>
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="js/js_productViewer.js"
+    ></script>
+    <script
+      language="javascript"
+      type="text/javascript"
+      src="js/js_climateAtlasViewer.js"
+	></script>
+	<script src="./js/featherlight.min.js"></script>
+    <script language="javascript" type="text/javascript">
+      oClatSelections = new multiSelectHandler(
+        "js/json_ImageTree.min.js",
+        clatSelectionsCallback,
+        { breakBeforeLabel: ["3"] }
+      );
+	</script>
+  </body>
+</html>

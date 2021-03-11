@@ -1,123 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Klimata portāls</title>
-    <link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/</link>
-    <description>Recent content on Klimata portāls</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>lv</language>
-    <lastBuildDate>Tue, 26 Jan 2021 12:13:14 +0200</lastBuildDate>
-    
-	<atom:link href="https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/janvaris/</link>
-      <pubDate>Tue, 26 Jan 2021 12:14:18 +0200</pubDate>
-      
-      <guid>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/janvaris/</guid>
-      <description>Materiāls sagatavots, izmantojot ilggadīgos vidējos datus līdz 2010. gadam ieskaitot un ilggadīgos maksimālos, minimālos datus līdz 2013. gadam ieskaitot.Janvāris Janvāra vidējā gaisa temperatūra ir no -6,6&amp;hellip;-6,3 grādiem Latvijas galējos austrumu rajonos (Gulbenē, Alūksnē, Rēzeknē) līdz -2,4&amp;hellip;-2,2 grādiem Baltijas jūras piekrastē (Liepājā, Pāvilostā un Ventspilī). Janvārī visaukstākais laiks Latvijas lielākajā daļā ir bijis 1987. gadā, tad mēneša vidējā gaisa temperatūra bija no -17 grādiem daudzviet Latvijas austrumu daļā līdz -9&amp;hellip;-10 grādiem Ventspilī un Kolkā.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/februaris/</link>
-      <pubDate>Tue, 26 Jan 2021 12:15:09 +0200</pubDate>
-      
-      <guid>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/februaris/</guid>
-      <description>Materiāls sagatavots, izmantojot ilggadīgos vidējos datus līdz 2010. gadam ieskaitot un ilggadīgos maksimālos, minimālos datus līdz 2014. gadam ieskaitot.Februāris Februāra vidējā gaisa temperatūra ir no -6,7&amp;hellip;-6,2 grādiem Latvijas austrumu rajonos (Alūksnē, Gulbenē, Zosēnos un Rēzeknē) līdz -2,8&amp;hellip;-2,7 grādiem Baltijas jūras piekrastē (Liepājā, Pāvilostā un Ventspilī). Pēc tajā laikā darbojošos novērojumu staciju datiem februārī visaukstākais laiks ir bijis 1929. gadā, tad mēneša vidējā gaisa temperatūra bija no -17&amp;hellip;-16 grādiem Latvijas austrumu daļā līdz -12 grādiem Baltijas jūras piekrastē.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/marts/</link>
-      <pubDate>Tue, 26 Jan 2021 12:15:18 +0200</pubDate>
-      
-      <guid>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/marts/</guid>
-      <description>Materiāls sagatavots, izmantojot ilggadīgos vidējos datus līdz 2010. gadam ieskaitot un ilggadīgos maksimālos, minimālos datus līdz 2014. gadam ieskaitot.Marts Mēneša vidējā gaisa temperatūra ir no -2,5&amp;hellip;-2,3 grādiem Latvijas austrumu daļā - Vidzemes un Alūksnes augstienēs - līdz -0,2 &amp;hellip;-0,1 grādiem Kurzemes rietumu daļā - Baltijas jūras piekrastē. Martā visaukstākais laiks ir bijis 1942. un 1952. gados, tad mēneša vidējā gaisa temperatūra Latvijas centrālajā un austrumu daļā noslīdēja līdz -10&amp;hellip;-12, bet Kurzemē līdz -5&amp;hellip;-9 grādiem.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/aprilis/</link>
-      <pubDate>Tue, 26 Jan 2021 12:15:25 +0200</pubDate>
-      
-      <guid>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/aprilis/</guid>
-      <description>Materiāls sagatavots, izmantojot ilggadīgos vidējos datus līdz 2010. gadam ieskaitot un ilggadīgos maksimālos, minimālos datus līdz 2014. gadam ieskaitot.Aprīlis Mēneša vidējā gaisa temperatūra ir no +3,2°C Latvijas ziemeļrietumu daļā (Kolkasragā) līdz +5,8&amp;hellip;+5,9 °C Viduslatvijā. Aprīlī visaukstākais laiks ir bijis 1929. un 1955. gados, tad mēneša vidējā gaisa temperatūra Latvijas centrālajā daļā noslīdēja līdz +1&amp;hellip;+2, bet citviet līdz -1&amp;hellip;+1 grādam. Vissiltākais laiks aprīlī ir bijis 1999. un 2000. gados, tad mēneša vidējā gaisa temperatūra piekrastes rajonos svārstījās no +6 līdz +9, bet pārējā teritorijā no +8 līdz +11 grādiem.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/maijs/</link>
-      <pubDate>Tue, 26 Jan 2021 12:15:34 +0200</pubDate>
-      
-      <guid>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/maijs/</guid>
-      <description>Materiāls sagatavots, izmantojot ilggadīgos vidējos datus līdz 2010. gadam ieskaitot un ilggadīgos maksimālos, minimālos datus līdz 2014. gadam ieskaitot.Maijs Mēneša vidējā gaisa temperatūra ir no +8,5°C Latvijas ziemeļrietumu daļā (Kolkasragā) līdz +12,0 °C Latvijas dienvidaustrumos (Daugavpilī) un +12,2°C Rīgā. Pēc tai laikā darbojošos staciju datiem maijā visaukstākais laiks ir bijis tālajā 1927. gadā, tad mēneša vidējā gaisa temperatūra visā Latvijā nebija augstāka par +6&amp;hellip;+7 grādiem. Savukārt vissiltākais laiks maijā ir bijis 2013.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/junijs/</link>
-      <pubDate>Tue, 26 Jan 2021 12:15:42 +0200</pubDate>
-      
-      <guid>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/junijs/</guid>
-      <description>Materiāls sagatavots, izmantojot ilggadīgos vidējos datus līdz 2010. gadam ieskaitot un ilggadīgos maksimālos, minimālos datus līdz 2014. gadam ieskaitot.Jūnijs Mēneša vidējā gaisa temperatūra jūnijā ir no +13,5°C Latvijas ziemeļrietumu daļā (Ventspilī, Kolkā) līdz +15,7°C Latvijas dienvidaustrumos (Daugavpilī) un +16,2°C Rīgā. Jūnijā kopumā Latvijā visaukstākais laiks ir bijis 1928. gadā, tad mēneša vidējā gaisa temperatūra visā Latvijā nebija augstāka par +9&amp;hellip;+11 grādiem. Vissiltākais laiks jūnijā kopumā Latvijā ir bijis 1999.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/julijs/</link>
-      <pubDate>Tue, 26 Jan 2021 12:15:48 +0200</pubDate>
-      
-      <guid>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/julijs/</guid>
-      <description>Materiāls sagatavots, izmantojot ilggadīgos vidējos datus līdz 2010. gadam ieskaitot un ilggadīgos maksimālos, minimālos datus līdz 2014. gadam ieskaitot.Jūlijs Jūlijs Latvijā gada gaitā ir vissiltākais mēnesis. Mēneša vidējā gaisa temperatūra ir no +16,3 Vidzemes augstienē (Zosēnos) līdz +17,4°C Viduslatvijas un Austrumlatvijas dienvidos un 18,5°C Rīgā. Vissiltākais laiks jūlijā kopumā Latvijā bija 2010. gadā, tad mēneša vidējā gaisa temperatūra vidēji Valstī bija +21,5 grādi, teritoriāli svārstoties no +20,5 grādiem Kolkā līdz +23,2 grādiem Rīgā.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/augusts/</link>
-      <pubDate>Tue, 26 Jan 2021 12:15:59 +0200</pubDate>
-      
-      <guid>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/augusts/</guid>
-      <description>Materiāls sagatavots, izmantojot ilggadīgos vidējos datus līdz 2010. gadam ieskaitot un ilggadīgos maksimālos, minimālos datus līdz 2014. gadam ieskaitot.Augusts Augusts Latvijā gada gaitā ir otrais siltākais mēnesis. Visaugstākā mēneša vidējā gaisa temperatūra ir Rīgā: 17,4°C, Latvijas vidienē un piekrastes rajonos – no 16,3ºC līdz 16,8ºC. Viszemākā augusta vidējā gaisa temperatūra ir Vidzemes un Alūksnes augstieņu rajonos: no 15,1ºC līdz 15,4ºC. Vissiltākais laiks augustā kopumā Latvijā ir bijis 1939. gadā, tad mēneša vidējā gaisa temperatūra kopumā Latvijā bija 20,2 grādi, dažādās Latvijas vietās sasniedzot 19-21 grādu robežu.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/septembris/</link>
-      <pubDate>Tue, 26 Jan 2021 12:16:07 +0200</pubDate>
-      
-      <guid>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/septembris/</guid>
-      <description>Materiāls sagatavots, izmantojot ilggadīgos vidējos datus līdz 2010. gadam ieskaitot un ilggadīgos maksimālos, minimālos datus līdz 2014. gadam ieskaitot.Septembris Septembra vidējā gaisa temperatūra ir no 10,4-10,5 grādiem Vidzemes un Alūksnes augstieņu rajonos (Zosēnos, Alūksnē) līdz 12,6-13,2 grādam Baltijas jūras piekrastē (Ventspilī, Pāvilostā, Liepājā) un Rīgā. Septembrī kopumā Latvijā visaukstākais laiks ir bijis 1993. gadā, tad mēneša vidējā gaisa temperatūra bija no 7 grādiem Valsts austrumu daļā līdz 10 grādiem Baltijas jūras piekrastē.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/oktobris/</link>
-      <pubDate>Tue, 26 Jan 2021 12:16:17 +0200</pubDate>
-      
-      <guid>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/oktobris/</guid>
-      <description>Materiāls sagatavots, izmantojot ilggadīgos vidējos datus līdz 2010. gadam ieskaitot un ilggadīgos maksimālos, minimālos datus līdz 2014. gadam ieskaitot.Oktobris Oktobra vidējā gaisa temperatūra ir no 5,0-5,3 grādiem Vidzemes un Alūksnes augstieņu rajonos (Alūksnē, Zosēnos) līdz 8,0-8,3 grādiem Baltijas jūras piekrastē (Ventspilī, Pāvilostā, Liepājā). Oktobrī visaukstākais laiks gan kopumā Latvijā, gan atsevišķās tās vietās ir bijis 1976. gadā, tad mēneša vidējā gaisa temperatūra bija no +0,3&amp;hellip;+0,6 grādiem Vidzemes un Alūksnes augstieņu rajonos līdz +4 grādiem Baltijas jūras piekrastē.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/novembris/</link>
-      <pubDate>Tue, 26 Jan 2021 12:16:24 +0200</pubDate>
-      
-      <guid>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/novembris/</guid>
-      <description>Materiāls sagatavots, izmantojot ilggadīgos vidējos datus līdz 2010. gadam ieskaitot un ilggadīgos maksimālos, minimālos datus līdz 2014. gadam ieskaitot.Novembris Rudens pēdējā mēneša vidējā gaisa temperatūra ir no 0,0&amp;hellip;-0,5 grādiem Vidzemes un Alūksnes augstieņu rajonos līdz +3,3&amp;hellip;+3,6 grādiem Baltijas jūras piekrastē. Novembrī visaukstākais laiks gan kopumā Latvijā, gan atsevišķās tās vietās ir bijis 1993. un 1998. gados, tad mēneša vidējā gaisa temperatūra bija no -6&amp;hellip;-7 grādiem Latvijas austrumu daļā līdz -1&amp;hellip;-3 grādiem Latvijas rietumos - Baltijas jūras piekrastē.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/decembris/</link>
-      <pubDate>Tue, 26 Jan 2021 12:16:31 +0200</pubDate>
-      
-      <guid>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/decembris/</guid>
-      <description>Materiāls sagatavots, izmantojot ilggadīgos vidējos datus līdz 2010. gadam ieskaitot un ilggadīgos maksimālos, minimālos datus līdz 2013. gadam ieskaitot.Decembris Ziemas pirmā mēneša vidējā gaisa temperatūra ir no -4,2&amp;hellip;-4,4 grādiem Gulbenē un Alūksnē līdz 0,0 grādiem Baltijas jūras piekrastē (Liepājā, Pāvilostā un Ventspilī). Decembrī visaukstākais laiks gan kopumā Latvijā, gan atsevišķās tās vietās ir bijis 1978. gadā, tad mēneša vidējā gaisa temperatūra bija no -15 grādiem Vidzemes augstienē (Zosēnos) līdz -6 grādiem vēl siltās jūras ietekmei visvairāk pakļautajā vietā – Kolkā.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Klimata portāls</title><link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/</link><description>Recent content on Klimata portāls</description><generator>Hugo -- gohugo.io</generator><language>lv</language><lastBuildDate>Tue, 26 Jan 2021 12:13:14 +0200</lastBuildDate><atom:link href="https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/janvaris/</link><pubDate>Tue, 26 Jan 2021 12:14:18 +0200</pubDate><guid>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/janvaris/</guid><description>Materiāls sagatavots, izmantojot ilggadīgos vidējos datus līdz 2010. gadam ieskaitot un ilggadīgos maksimālos, minimālos datus līdz 2013. gadam ieskaitot.
+Janvāris Janvāra vidējā gaisa temperatūra ir no -6,6&amp;hellip;-6,3 grādiem Latvijas galējos austrumu rajonos (Gulbenē, Alūksnē, Rēzeknē) līdz -2,4&amp;hellip;-2,2 grādiem Baltijas jūras piekrastē (Liepājā, Pāvilostā un Ventspilī). Janvārī visaukstākais laiks Latvijas lielākajā daļā ir bijis 1987. gadā, tad mēneša vidējā gaisa temperatūra bija no -17 grādiem daudzviet Latvijas austrumu daļā līdz -9&amp;hellip;-10 grādiem Ventspilī un Kolkā.</description></item><item><title/><link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/februaris/</link><pubDate>Tue, 26 Jan 2021 12:15:09 +0200</pubDate><guid>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/februaris/</guid><description>Materiāls sagatavots, izmantojot ilggadīgos vidējos datus līdz 2010. gadam ieskaitot un ilggadīgos maksimālos, minimālos datus līdz 2014. gadam ieskaitot.
+Februāris Februāra vidējā gaisa temperatūra ir no -6,7&amp;hellip;-6,2 grādiem Latvijas austrumu rajonos (Alūksnē, Gulbenē, Zosēnos un Rēzeknē) līdz -2,8&amp;hellip;-2,7 grādiem Baltijas jūras piekrastē (Liepājā, Pāvilostā un Ventspilī). Pēc tajā laikā darbojošos novērojumu staciju datiem februārī visaukstākais laiks ir bijis 1929. gadā, tad mēneša vidējā gaisa temperatūra bija no -17&amp;hellip;-16 grādiem Latvijas austrumu daļā līdz -12 grādiem Baltijas jūras piekrastē.</description></item><item><title/><link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/marts/</link><pubDate>Tue, 26 Jan 2021 12:15:18 +0200</pubDate><guid>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/marts/</guid><description>Materiāls sagatavots, izmantojot ilggadīgos vidējos datus līdz 2010. gadam ieskaitot un ilggadīgos maksimālos, minimālos datus līdz 2014. gadam ieskaitot.
+Marts Mēneša vidējā gaisa temperatūra ir no -2,5&amp;hellip;-2,3 grādiem Latvijas austrumu daļā - Vidzemes un Alūksnes augstienēs - līdz -0,2 &amp;hellip;-0,1 grādiem Kurzemes rietumu daļā - Baltijas jūras piekrastē. Martā visaukstākais laiks ir bijis 1942. un 1952. gados, tad mēneša vidējā gaisa temperatūra Latvijas centrālajā un austrumu daļā noslīdēja līdz -10&amp;hellip;-12, bet Kurzemē līdz -5&amp;hellip;-9 grādiem.</description></item><item><title/><link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/aprilis/</link><pubDate>Tue, 26 Jan 2021 12:15:25 +0200</pubDate><guid>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/aprilis/</guid><description>Materiāls sagatavots, izmantojot ilggadīgos vidējos datus līdz 2010. gadam ieskaitot un ilggadīgos maksimālos, minimālos datus līdz 2014. gadam ieskaitot.
+Aprīlis Mēneša vidējā gaisa temperatūra ir no +3,2°C Latvijas ziemeļrietumu daļā (Kolkasragā) līdz +5,8&amp;hellip;+5,9 °C Viduslatvijā. Aprīlī visaukstākais laiks ir bijis 1929. un 1955. gados, tad mēneša vidējā gaisa temperatūra Latvijas centrālajā daļā noslīdēja līdz +1&amp;hellip;+2, bet citviet līdz -1&amp;hellip;+1 grādam. Vissiltākais laiks aprīlī ir bijis 1999. un 2000. gados, tad mēneša vidējā gaisa temperatūra piekrastes rajonos svārstījās no +6 līdz +9, bet pārējā teritorijā no +8 līdz +11 grādiem.</description></item><item><title/><link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/maijs/</link><pubDate>Tue, 26 Jan 2021 12:15:34 +0200</pubDate><guid>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/maijs/</guid><description>Materiāls sagatavots, izmantojot ilggadīgos vidējos datus līdz 2010. gadam ieskaitot un ilggadīgos maksimālos, minimālos datus līdz 2014. gadam ieskaitot.
+Maijs Mēneša vidējā gaisa temperatūra ir no +8,5°C Latvijas ziemeļrietumu daļā (Kolkasragā) līdz +12,0 °C Latvijas dienvidaustrumos (Daugavpilī) un +12,2°C Rīgā. Pēc tai laikā darbojošos staciju datiem maijā visaukstākais laiks ir bijis tālajā 1927. gadā, tad mēneša vidējā gaisa temperatūra visā Latvijā nebija augstāka par +6&amp;hellip;+7 grādiem. Savukārt vissiltākais laiks maijā ir bijis 2013.</description></item><item><title/><link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/junijs/</link><pubDate>Tue, 26 Jan 2021 12:15:42 +0200</pubDate><guid>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/junijs/</guid><description>Materiāls sagatavots, izmantojot ilggadīgos vidējos datus līdz 2010. gadam ieskaitot un ilggadīgos maksimālos, minimālos datus līdz 2014. gadam ieskaitot.
+Jūnijs Mēneša vidējā gaisa temperatūra jūnijā ir no +13,5°C Latvijas ziemeļrietumu daļā (Ventspilī, Kolkā) līdz +15,7°C Latvijas dienvidaustrumos (Daugavpilī) un +16,2°C Rīgā. Jūnijā kopumā Latvijā visaukstākais laiks ir bijis 1928. gadā, tad mēneša vidējā gaisa temperatūra visā Latvijā nebija augstāka par +9&amp;hellip;+11 grādiem. Vissiltākais laiks jūnijā kopumā Latvijā ir bijis 1999.</description></item><item><title/><link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/julijs/</link><pubDate>Tue, 26 Jan 2021 12:15:48 +0200</pubDate><guid>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/julijs/</guid><description>Materiāls sagatavots, izmantojot ilggadīgos vidējos datus līdz 2010. gadam ieskaitot un ilggadīgos maksimālos, minimālos datus līdz 2014. gadam ieskaitot.
+Jūlijs Jūlijs Latvijā gada gaitā ir vissiltākais mēnesis. Mēneša vidējā gaisa temperatūra ir no +16,3 Vidzemes augstienē (Zosēnos) līdz +17,4°C Viduslatvijas un Austrumlatvijas dienvidos un 18,5°C Rīgā. Vissiltākais laiks jūlijā kopumā Latvijā bija 2010. gadā, tad mēneša vidējā gaisa temperatūra vidēji Valstī bija +21,5 grādi, teritoriāli svārstoties no +20,5 grādiem Kolkā līdz +23,2 grādiem Rīgā.</description></item><item><title/><link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/augusts/</link><pubDate>Tue, 26 Jan 2021 12:15:59 +0200</pubDate><guid>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/augusts/</guid><description>Materiāls sagatavots, izmantojot ilggadīgos vidējos datus līdz 2010. gadam ieskaitot un ilggadīgos maksimālos, minimālos datus līdz 2014. gadam ieskaitot.
+Augusts Augusts Latvijā gada gaitā ir otrais siltākais mēnesis. Visaugstākā mēneša vidējā gaisa temperatūra ir Rīgā: 17,4°C, Latvijas vidienē un piekrastes rajonos – no 16,3ºC līdz 16,8ºC. Viszemākā augusta vidējā gaisa temperatūra ir Vidzemes un Alūksnes augstieņu rajonos: no 15,1ºC līdz 15,4ºC. Vissiltākais laiks augustā kopumā Latvijā ir bijis 1939. gadā, tad mēneša vidējā gaisa temperatūra kopumā Latvijā bija 20,2 grādi, dažādās Latvijas vietās sasniedzot 19-21 grādu robežu.</description></item><item><title/><link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/septembris/</link><pubDate>Tue, 26 Jan 2021 12:16:07 +0200</pubDate><guid>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/septembris/</guid><description>Materiāls sagatavots, izmantojot ilggadīgos vidējos datus līdz 2010. gadam ieskaitot un ilggadīgos maksimālos, minimālos datus līdz 2014. gadam ieskaitot.
+Septembris Septembra vidējā gaisa temperatūra ir no 10,4-10,5 grādiem Vidzemes un Alūksnes augstieņu rajonos (Zosēnos, Alūksnē) līdz 12,6-13,2 grādam Baltijas jūras piekrastē (Ventspilī, Pāvilostā, Liepājā) un Rīgā. Septembrī kopumā Latvijā visaukstākais laiks ir bijis 1993. gadā, tad mēneša vidējā gaisa temperatūra bija no 7 grādiem Valsts austrumu daļā līdz 10 grādiem Baltijas jūras piekrastē.</description></item><item><title/><link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/oktobris/</link><pubDate>Tue, 26 Jan 2021 12:16:17 +0200</pubDate><guid>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/oktobris/</guid><description>Materiāls sagatavots, izmantojot ilggadīgos vidējos datus līdz 2010. gadam ieskaitot un ilggadīgos maksimālos, minimālos datus līdz 2014. gadam ieskaitot.
+Oktobris Oktobra vidējā gaisa temperatūra ir no 5,0-5,3 grādiem Vidzemes un Alūksnes augstieņu rajonos (Alūksnē, Zosēnos) līdz 8,0-8,3 grādiem Baltijas jūras piekrastē (Ventspilī, Pāvilostā, Liepājā). Oktobrī visaukstākais laiks gan kopumā Latvijā, gan atsevišķās tās vietās ir bijis 1976. gadā, tad mēneša vidējā gaisa temperatūra bija no +0,3&amp;hellip;+0,6 grādiem Vidzemes un Alūksnes augstieņu rajonos līdz +4 grādiem Baltijas jūras piekrastē.</description></item><item><title/><link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/novembris/</link><pubDate>Tue, 26 Jan 2021 12:16:24 +0200</pubDate><guid>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/novembris/</guid><description>Materiāls sagatavots, izmantojot ilggadīgos vidējos datus līdz 2010. gadam ieskaitot un ilggadīgos maksimālos, minimālos datus līdz 2014. gadam ieskaitot.
+Novembris Rudens pēdējā mēneša vidējā gaisa temperatūra ir no 0,0&amp;hellip;-0,5 grādiem Vidzemes un Alūksnes augstieņu rajonos līdz +3,3&amp;hellip;+3,6 grādiem Baltijas jūras piekrastē. Novembrī visaukstākais laiks gan kopumā Latvijā, gan atsevišķās tās vietās ir bijis 1993. un 1998. gados, tad mēneša vidējā gaisa temperatūra bija no -6&amp;hellip;-7 grādiem Latvijas austrumu daļā līdz -1&amp;hellip;-3 grādiem Latvijas rietumos - Baltijas jūras piekrastē.</description></item><item><title/><link>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/decembris/</link><pubDate>Tue, 26 Jan 2021 12:16:31 +0200</pubDate><guid>https://klimats.meteo.lv/klimats/menesu_klimatiskais_raksturojums/decembris/</guid><description>Materiāls sagatavots, izmantojot ilggadīgos vidējos datus līdz 2010. gadam ieskaitot un ilggadīgos maksimālos, minimālos datus līdz 2013. gadam ieskaitot.
+Decembris Ziemas pirmā mēneša vidējā gaisa temperatūra ir no -4,2&amp;hellip;-4,4 grādiem Gulbenē un Alūksnē līdz 0,0 grādiem Baltijas jūras piekrastē (Liepājā, Pāvilostā un Ventspilī). Decembrī visaukstākais laiks gan kopumā Latvijā, gan atsevišķās tās vietās ir bijis 1978. gadā, tad mēneša vidējā gaisa temperatūra bija no -15 grādiem Vidzemes augstienē (Zosēnos) līdz -6 grādiem vēl siltās jūras ietekmei visvairāk pakļautajā vietā – Kolkā.</description></item></channel></rss>
