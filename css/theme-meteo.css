@@ -485,6 +485,10 @@ a.chapter-description-link > div > div > i {
     padding-right: 12px;
 }
 
+#sidebar ul li > a.chapter-description-link {
+    padding-right: 0;
+}
+
 /* nav-menu weights helper */
 li.helper-collapsed-chapter > ul {
     display: none !important;
